@@ -1,0 +1,35 @@
+/**
+ * file: chatgpt_karbytes_21august2026_p0.txt
+ * type: plain-text
+ * date: 21_AUGUST_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Work Mode which took place between 11:59PM Pacific Standard Time on 20_AUGUST_2026 and 11:59PM Pacific Standard Time on 21_AUGUST_2026.
+
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_21august2026_a
+
+* * *
+
+karbytes:
+
+When I had you analyze videos which had spoken content in them and which included their alleged transcription files, did you still do your own speech-to-text processing or did you rely solely on the provided transcript files to decipher what was being said in those videos?
+
+ChatGPT:
+
+[Worked for 53s]
+
+I relied on the provided transcription files to determine the spoken words. I did not independently run speech-to-text on those videos.
+
+I did separately inspect the videos and, in some cases, decode their audio tracks for technical properties such as waveform, spectrum, loudness, timing, and synchronization. But that signal analysis did not tell me the precise dialogue. The verbal-semantic portions of my analyses came from the supplied TurboScribe-generated, karbytes-curated transcripts.
+
+So the accurate distinction is:
+
+* Visual content: independently inspected through decoded and sampled video frames.
+
+* Audio structure: sometimes independently examined computationally.
+
+* Spoken wording: taken from the accompanying transcripts, not independently re-transcribed or verified word-for-word against the audio.
+
+If any earlier response suggested that I had independently listened to and transcribed the speech, that suggestion was too broad and should not be treated as accurate.
