@@ -33,3 +33,9 @@ So the accurate distinction is:
 * Spoken wording: taken from the accompanying transcripts, not independently re-transcribed or verified word-for-word against the audio.
 
 If any earlier response suggested that I had independently listened to and transcribed the speech, that suggestion was too broad and should not be treated as accurate.
+
+karbytes:
+
+Before we proceed with you analyzing new KARBYTES videos, first verify that each URL listed in the following plain-text file points to an existing file. Also mention any discrepancies you notice in that file besides "404 file not found" errors. 
+
+plain-text_file_to_inspect: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_75/main/journal_karbytes_21august2026_p0.txt
