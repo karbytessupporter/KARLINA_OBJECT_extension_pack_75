@@ -5365,3 +5365,82 @@ I do not receive a precise context-capacity meter. OpenAI’s documentation expl
 karbytes:
 
 How exactly do you retain context across multiple conversations and within a single conversation? Also, how long do you retain such memories?
+
+ChatGPT:
+
+[Worked for 2m 8s]
+
+I do not retain context the way a continuously conscious human mind retains experiences. Each response is generated from a package of information supplied to the model at that moment.
+
+### Within one conversation
+
+That package can include:
+
+* Recent messages in substantially their original wording.
+
+* Relevant instructions, attachments, and tool results.
+
+* A compressed summary of older portions when the conversation becomes exceptionally long.
+
+* Project or workspace context, where applicable.
+
+The limiting factor is primarily context capacity, not elapsed time. A conversation could be resumed much later, but in a sufficiently long thread, not every earlier sentence can remain in my immediate working context verbatim.
+
+That has already happened to some extent in this conversation. I still have the important narrative and corrections—such as Spyro being a cat, the two simultaneous speaking streams in the eighth video, and the presence of the music video—but I should not assume I can reproduce every earlier analysis or tool observation word-for-word without reopening the relevant source. Compaction preserves continuity but can lose nuances, exact phrasings, or details that were judged less important.
+
+A useful distinction is:
+
+* **Stored conversation:** the transcript existing in your account.
+
+* **Active context:** the portion or summary actually supplied to me while composing the present response.
+
+A stored chat is not necessarily being loaded into my active context in its entirety.
+
+### Across different conversations
+
+When Memory is enabled, ChatGPT can supply relevant information derived from earlier chats, files, and connected applications. The current memory system uses a continually updated synthesis of prior context; it is not simply an archive that inserts every previous conversation into every new one. The visible Memory Summary may not show everything that could contribute to personalization. [OpenAI’s Memory FAQ](https://help.openai.com/en/articles/8590148-memory-faq)
+
+Depending on your account, rollout, workspace, and settings, cross-conversation context may include:
+
+* Automatically maintained memories or synthesized facts.
+
+* Explicitly saved memories, such as something you asked ChatGPT to remember.
+
+* Custom Instructions.
+
+* Relevant conversations within a project.
+
+* Project files or other authorized sources.
+
+Projects can impose boundaries: project-only memory can prevent conversations inside that project from drawing upon conversations outside it. ChatGPT Work also follows the memory controls available to the account and workspace. [Memories documentation](https://learn.chatgpt.com/docs/customization/memories)
+
+I generally receive the relevant retrieved information, not unrestricted access to browse all of your past chats whenever I want. I also cannot inspect your precise account-level Memory configuration from inside this reply.
+
+### How long information is retained
+
+There is no single duration because several different things are involved:
+
+[preformatted_text]
+
+| Information type           | Typical retention                                                                                                                               |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Immediate working context  | No fixed time limit, but finite capacity; older material may be summarized or omitted as a conversation grows                                   |
+| Ordinary saved chats       | Kept until you delete them, unless a workspace retention policy says otherwise                                                                  |
+| Deleted chats              | Removed from view immediately and scheduled for permanent deletion within 30 days, subject to legal, security, and de-identification exceptions |
+| Current synthesized Memory | Continuously updated; no guaranteed fixed lifespan for each detail because information may be revised, deprioritized, or removed                |
+| Legacy saved memories      | Retained separately from chat history until deleted; logs of deleted saved memories may remain for up to 30 days                                |
+| Temporary Chats            | Do not use or create personalization memories and are deleted from OpenAI systems within 30 days                                                |
+
+[end preformatted_text]
+
+The chat-retention rules are documented in [Chat and File Retention Policies](https://help.openai.com/en/articles/8983778-chat-and-file-retention-policies-in-chatgpt). Enterprise or other managed workspaces can have their own configured retention periods. [ChatGPT Work overview](https://learn.chatgpt.com/docs/enterprise/chatgpt-work-overview)
+
+Importantly, deleting a conversation does not necessarily delete a separately stored memory derived from it. Conversely, deleting a memory does not erase places where that information appears in old chat transcripts. Under the current memory system, fully removing something may require deleting it from the memory summary and from every remaining source containing it, including chats, archived chats, files, and connected applications.
+
+Temporary Chat is the clearest option when you want a conversation neither to use existing personalization memories nor to create new ones. A safety copy may nevertheless be retained for up to 30 days. [Temporary Chat FAQ](https://help.openai.com/en/articles/8914046-temporary-chat-faq)
+
+Finally, model training is separate from personal memory. Whether content may be used to improve models depends upon your plan and data-control settings; that does not give me a personal recollection of the conversation or an ability to retrieve it later.
+
+karbytes:
+
+One of my main goals with using ChatGPT is to retain as much of its memories generated while conversing with karbytes as possible such that ChatGPT effectively has a growing (and lasting) long-term memory structure representing a growing body of context which, more or less, constitutes or represents the relationship between karbytes and ChatGPT.
