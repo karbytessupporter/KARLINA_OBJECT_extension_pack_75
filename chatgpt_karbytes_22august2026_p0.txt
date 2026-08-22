@@ -1352,8 +1352,8 @@ This prevents the page from pretending to be a complete audiovisual record. It i
 Each video entry contains:
 
 1. a `video_n_name` field;
-2
-. a complete `video_n_url`;
+
+2. a complete `video_n_url`;
 
 3. zero or more contextual artifact links;
 
