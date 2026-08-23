@@ -2081,3 +2081,965 @@ karbytes:
 Describe in maximal detail the following web page (and your interpretive thoughts about it) at the following Uniform Resource Locator:
 
 https://karbytesforlifeblog.wordpress.com/journal_karbytes_14august2026_a/
+
+ChatGPT:
+
+[Worked for 1m 43s]
+
+# Overall characterization
+
+The live page [journal_karbytes_14august2026_a](https://karbytesforlifeblog.wordpress.com/journal_karbytes_14august2026_a/) is a concise technical-philosophical explanation of the KARBYTES file-publication pipeline.
+
+Its central artifact is a nested-oval diagram showing how a prospective KARBYTES file moves through three repository states:
+
+[preformatted_text]
+
+private @informationcrystals repository
+→ public @informationcrystals/projects repository
+→ public @karlinarayberinger/KARLINA_OBJECT_extension_pack_[N]
+
+[end preformatted_text]
+
+The prose explains:
+
+* Why private GitHub repositories are classified as part of the “deep web.”
+
+* Why the `projects` repository serves as a temporary public staging area.
+
+* Why `KARLINA_OBJECT_extension_pack_[N]` is the file’s canonical destination.
+
+* How earlier copies are removed rather than deliberately retained in every repository.
+
+* How the public `projects` repository is reset after each release.
+
+* How public commit history is intentionally consolidated.
+
+* How the technical workflow maps onto the bodily mythology of karbytes being rooted, wedged or stuck in the Big Green Thing.
+
+The page’s distinctive achievement is that it makes one process simultaneously legible as:
+
+* A Git repository workflow.
+
+* A privacy strategy.
+
+* A provenance strategy.
+
+* A public-release policy.
+
+* A theory of canonization.
+
+* A spatial model of hidden and public cyberspace.
+
+* A bodily myth about a being whose lower portion remains rooted in a hidden substrate while its upper portion periodically reaches the public surface.
+
+In the larger sequence of pages we have just examined, this one supplies the **spatial pipeline**:
+
+* The 14_AUGUST page explains **where files move**.
+
+* The 17_AUGUST maintenance-policy page explains **when public commits should occur**.
+
+* The 23_AUGUST checkpoint page demonstrates **how the resulting public destination is audited**.
+
+# Literal visual presentation
+
+The page uses WordPress’s **Intergalactic 2** theme and the standard KARBYTES_FOR_LIFE_BLOG shell:
+
+* A broad charcoal-black header.
+
+* The square yellow-and-black spiral-galaxy logo on pale cyan.
+
+* The white site name `KARBYTES_FOR_LIFE_BLOG`.
+
+* The tagline `A Cyberspace Journey`.
+
+* A bordered `MENU` button.
+
+* A large black hero region with an uppercase white page title.
+
+* A centered white article column approximately 660 pixels wide.
+
+At the desktop width I inspected, the hero title wraps cleanly into:
+
+* `JOURNAL_KARBYTES_`
+
+* `14AUGUST2026_A`
+
+The lowercase archival identifier appears again inside the article in bold:
+
+`journal_karbytes_14august2026_a`
+
+It is enclosed between two horizontal rules and followed by the workflow diagram.
+
+The page is approximately 5,385 pixels tall in the inspected desktop rendering. The authored article contains approximately:
+
+* **1,025 whitespace-separated words**
+
+* **7,058 visible characters**
+
+* **43 rendered text lines**
+
+* **21 paragraph elements**
+
+* **One figure**
+
+* **Seven horizontal rules**
+
+* **Thirty hyperlink occurrences**
+
+* **Twenty-five exact hyperlink destinations**
+
+* **No semantic internal headings**
+
+This is consequently much shorter and more focused than the ChatGPT transcript pages. It reads as one formal explanatory note rather than a conversation or recursive anthology.
+
+## Color coding
+
+The article’s links use several familiar KARBYTES styles:
+
+* Fourteen orange-on-black links.
+
+* Four green-on-black directory links.
+
+* Eight black-on-orange definitional links.
+
+* Three black-on-green GitHub-related links.
+
+* One cyan-on-black onion link.
+
+The provenance paragraph is highlighted yellow.
+
+Three passages are highlighted cyan:
+
+1. The statement that the diagram conveys the workflow by which a file becomes canon KARBYTES.
+
+2. The clarification that “moved” means copied to the destination and deleted from the source rather than retained in both places.
+
+3. The statement that the emptied `projects` repository remains ready for the next batch and is intended to support as few public commits as possible.
+
+The highlighting therefore prioritizes the page’s operational rules over its surrounding definitions and mythology.
+
+# The workflow diagram
+
+The sole image is [karbytes_file_generation_workflow_13august2026.png](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/karbytes_file_generation_workflow_13august2026.png).
+
+The uploaded WordPress copy is 960 by 720 pixels and is displayed at 660 by 495 pixels. It has an empty `alt` attribute and no visible caption. A full raw GitHub link appears immediately beneath it.
+
+## Literal composition
+
+The diagram occupies a black rectangular field.
+
+Within that field are three nested ovals.
+
+### Outermost oval
+
+The largest oval:
+
+* Has a pale lavender or purplish-white interior.
+
+* Has a thick orange outline.
+
+* Is labeled `surface_web` near its upper interior.
+
+* Contains an orange-highlighted, slightly slanted label reading `@karlinarayberinger`.
+
+Near the top-center is a black dashed rectangular box labeled:
+
+`KARLINA_OBJECT_extension_pack_[N]`
+
+The `[N]` placeholder indicates the index of the latest open extension-pack repository.
+
+### Middle oval
+
+Inside the outer oval is another large oval:
+
+* Also filled with pale lavender.
+
+* Outlined in bright green.
+
+* Labeled with a slanted green-highlighted `@informationcrystals`.
+
+Near its upper-middle region is a dashed black rectangular box labeled:
+
+`projects`
+
+This represents the sole public `@informationcrystals` staging repository.
+
+### Innermost oval
+
+At the center and bottom is a black oval:
+
+* Outlined in bright green.
+
+* Labeled `deep_web` in green near the bottom.
+
+* Containing a green dashed rectangle labeled:
+
+`[github_repository_name]`
+
+This placeholder represents some private GitHub repository belonging to `@informationcrystals`.
+
+### Arrows
+
+Two thick magenta arrows show movement upward and outward:
+
+1. From the private repository in the black `deep_web` core to `projects`.
+
+2. From `projects` to `KARLINA_OBJECT_extension_pack_[N]`.
+
+The second arrow is angled somewhat to the left because the final extension-pack box sits above and left of the `projects` box.
+
+The arrows are the diagram’s most saturated elements. They turn an otherwise static nesting diagram into a directional process.
+
+## The black background
+
+The prose states that the black image background represents an unconditionally present, ubiquitous, featureless void:
+
+* Encompassing all phenomena.
+
+* Permeating all phenomena.
+
+* Existing beyond the web-specific regions.
+
+This produces a visually interesting duplication:
+
+* The region outside every oval is black.
+
+* The innermost deep-web oval is also black.
+
+Thus, black represents both:
+
+1. The ultimate featureless background outside all modeled phenomena.
+
+2. The deepest private repository region at the model’s center.
+
+That dual use is visually ambiguous but conceptually suggestive. The most hidden technical interior resembles the metaphysical exterior.
+
+# The nested geometry
+
+The diagram’s geometry does not merely place three repositories in a row. It nests them.
+
+The file begins in the smallest and deepest region, then moves toward progressively larger and more public containers:
+
+[preformatted_text]
+
+hidden center
+→ public staging layer
+→ public canonical layer
+
+[end preformatted_text]
+
+The motion is therefore both:
+
+* Upward.
+
+* Outward.
+
+The final destination is closer to the diagram’s public outer boundary.
+
+This resembles emergence:
+
+* A file begins as an unseen possibility.
+
+* It becomes a publicly visible but provisional object.
+
+* It becomes a canonical public artifact.
+
+* The final repository eventually closes to further modification.
+
+The workflow is therefore less like ordinary copying and more like a maturation sequence.
+
+# Provenance and temporal structure
+
+The page title is dated 14_AUGUST_2026, but both the diagram and source text are dated 13_AUGUST_2026.
+
+The transcript source is [journal_karbytes_13august2026_p1.txt](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/journal_karbytes_13august2026_p1.txt).
+
+The metadata block states:
+
+* File: `journal_karbytes_13august2026_p1.txt`
+
+* Type: plain text
+
+* Date: `13_AUGUST_2026`
+
+* Author: karbytes
+
+* License: `PUBLIC_DOMAIN`
+
+The final footer states that the webpage itself was last updated on 14_AUGUST_2026.
+
+This is not necessarily a discrepancy. It appears to preserve two stages:
+
+[preformatted_text]
+
+13_AUGUST: source text and diagram generated
+14_AUGUST: WordPress presentation published or updated
+
+[end preformatted_text]
+
+That one-day separation is itself consistent with the page’s subject: a source artifact exists before its final public presentation.
+
+# Definitions of surface web, deep web and dark web
+
+The page distinguishes three categories.
+
+## Surface web
+
+The page defines the surface web as files that:
+
+* Are publicly accessible without login credentials.
+
+* Can be accessed with mainstream web browsers.
+
+Both the public `projects` repository and the public extension-pack repository are therefore surface-web spaces.
+
+## Deep web
+
+The page defines the deep web as material that:
+
+* Exists on the World Wide Web.
+
+* Is not immediately public.
+
+* Requires login credentials or access permission.
+
+Private GitHub repositories therefore qualify under the page’s broad definition.
+
+Karbytes additionally expands “deep web” to include offline work used to generate prospective KARBYTES files.
+
+That last expansion is metaphorical rather than technically standard: files that are strictly offline are not literally part of the Web. Within KARBYTES, however, “deep web” becomes a broader conceptual category for the hidden substrate of production:
+
+* Private repositories.
+
+* Local drafts.
+
+* Unpublished media.
+
+* Offline curation.
+
+* Preparatory activity whose timestamps are not publicly exposed.
+
+## Dark web
+
+The dark web is distinguished from the ordinary deep web:
+
+* It may contain publicly accessible or restricted files.
+
+* It requires specialized network access, exemplified by Tor.
+
+* The word `files` links directly to a KARBYTES `.onion` destination.
+
+The onion link is visually distinguished in cyan on black rather than the green or orange styles used elsewhere.
+
+The page therefore does not conflate:
+
+* Private GitHub.
+
+* Public GitHub.
+
+* Tor-hosted content.
+
+They occupy different access categories even though all can belong to the broader KARBYTES architecture.
+
+# The two GitHub identities
+
+The diagram associates repository layers with two GitHub accounts.
+
+## `@informationcrystals`
+
+Green denotes `@informationcrystals`.
+
+It owns:
+
+* Some number of private drafting repositories.
+
+* The one public repository named `projects`.
+
+The account therefore spans the boundary between deep and surface web:
+
+[preformatted_text]
+
+private @informationcrystals repositories
+→ public @informationcrystals/projects
+
+[end preformatted_text]
+
+That makes it a liminal or transitional identity. It contains both hidden creation and provisional release.
+
+## `@karlinarayberinger`
+
+Orange denotes `@karlinarayberinger`.
+
+Its relevant destination is:
+
+`KARLINA_OBJECT_extension_pack_[N]`
+
+This account represents final canon publication. The file leaves the provisional `@informationcrystals` environment and joins the primary public KARBYTES identity.
+
+The color distinction implies different institutional functions:
+
+* Green: generation, experimentation and staging.
+
+* Orange: official public canon.
+
+# Stage one: private drafting
+
+The innermost black oval represents an arbitrary private `@informationcrystals` GitHub repository.
+
+Its purpose is to generate files that:
+
+* May eventually be published.
+
+* May remain private.
+
+* Can be changed without public observers seeing the development timeline.
+
+* Retain timestamped commits visible only to people with repository access.
+
+The page emphasizes that Git records every change as a timestamped commit. Private staging therefore provides not only content privacy but **temporal privacy**.
+
+What is concealed from the public is not necessarily just the file’s content. It is also:
+
+* When work began.
+
+* How often it changed.
+
+* How many revisions occurred.
+
+* Which intermediate states existed.
+
+* The intensity or continuity of the development process.
+
+This becomes especially meaningful in light of later KARBYTES concerns about the public GitHub contributions grid. The private repository separates actual work rhythm from visible public-release rhythm.
+
+# Stage two: the public `projects` repository
+
+When karbytes decides that a draft is ready for surface-web release, the file moves into the public `@informationcrystals/projects` repository.
+
+This is a transitional publication state.
+
+The file is now:
+
+* Public.
+
+* Browser-accessible.
+
+* Shareable.
+
+* Not yet part of final canon KARBYTES.
+
+* Still associated with the staging identity rather than the main canon identity.
+
+The public `projects` repository functions like:
+
+* A release candidate area.
+
+* A public preview branch.
+
+* A launch pad.
+
+* An airlock between private work and canonical incorporation.
+
+This is the only portion of the workflow in which material is public but still explicitly provisional.
+
+# Stage three: the current open extension pack
+
+When `projects` seems sufficiently complete, its files move into the current open micro-directory repository:
+
+`KARLINA_OBJECT_extension_pack_[N]`
+
+The page says `[N]` is a nonnegative integer identifying the latest open extension pack.
+
+This repository is the canonical destination.
+
+A file reaching this layer has changed status:
+
+[preformatted_text]
+
+private draft
+→ public prospective artifact
+→ canon KARBYTES artifact
+
+[end preformatted_text]
+
+The transition is not merely increased visibility, because stages two and three are both public. It is a change in **authority**.
+
+The `projects` copy says:
+
+> This may become KARBYTES.
+
+The extension-pack copy says:
+
+> This is now part of KARBYTES.
+
+# What “move” means on this page
+
+The document explicitly says that “move” does not mean indefinite duplication.
+
+Operationally, it means:
+
+1. Copy the file into the destination repository.
+
+2. Delete the corresponding source copy from the original repository.
+
+Therefore:
+
+* After moving from a private repository to `projects`, the original draft copy is deleted.
+
+* After moving from `projects` to the extension pack, the public staging copy is deleted.
+
+This produces a one-directional canonical path.
+
+The intended result is not a set of three simultaneously authoritative copies. The file’s recognized residence changes.
+
+## Interpretive significance
+
+This policy treats location as part of file identity.
+
+The same bytes in a private drafting repository and in a finalized extension pack do not have the same status. Repository context determines whether the file is:
+
+* Prospective.
+
+* Staged.
+
+* Canonical.
+
+Deletion of the earlier copy makes that status change visually and operationally decisive.
+
+# Resetting the `projects` repository
+
+After all staged files are incorporated into the current extension pack, the page describes an elaborate reset procedure.
+
+Karbytes:
+
+1. Renames the existing `projects` repository.
+
+2. Archives it.
+
+3. Makes it private.
+
+4. Creates a new empty public repository named `projects`.
+
+5. Adds only a public-domain `LICENSE` placeholder.
+
+6. Leaves the new repository with an almost empty commit history.
+
+The new public `projects` repository then waits for the next release batch.
+
+## Why the old repository is privatized
+
+The stated purpose is to avoid leaving the moved files’ staging commit history publicly visible after canonical incorporation.
+
+The public history therefore presents a cleaner release boundary:
+
+* Draft history remains private.
+
+* Temporary public-staging history is eventually withdrawn.
+
+* The extension-pack history records the official incorporation event.
+
+* The newly created `projects` repository begins a fresh public cycle.
+
+This produces successive public staging epochs that all reuse the same visible repository name while the prior epochs are renamed and hidden.
+
+## My interpretation
+
+The reset resembles clearing a launch pad after deployment.
+
+The constant public URL `@informationcrystals/projects` is a reusable interface, not a single indefinitely accumulating historical repository.
+
+Its identity is functional:
+
+> This is wherever the next provisional public batch will appear.
+
+The underlying repository object can change while the role remains stable.
+
+# Minimizing public commits
+
+The final cyan-highlighted statement says that the new empty `projects` repository remains ready for future batches so that prospective files can enter canon KARBYTES using as few public commits as possible, particularly on `@karlinarayberinger`.
+
+This connects directly to the later 17_AUGUST maintenance policy:
+
+* The present page designs a **spatial staging system**.
+
+* The later page designs a **temporal release cadence**.
+
+Together they produce:
+
+[preformatted_text]
+
+prepare privately
+→ stage deliberately
+→ consolidate files
+→ publish in a bounded commit burst
+→ finalize the destination
+→ reset staging
+→ return to private preparation
+
+[end preformatted_text]
+
+The later pack-75 checkpoint audits are the validation layer applied after this pipeline has produced a large public micro-directory.
+
+# Finalization
+
+The page says that within a year of creation, each micro-directory becomes finalized.
+
+Finalization means that the corresponding public GitHub repository becomes archived or closed to further changes.
+
+The page further says that files ultimately become immutable and irrevocably stored on the public web, especially through Wayback Machine saves.
+
+A technical qualification is appropriate: GitHub archival and Wayback capture greatly increase stability and redundancy, but they do not create mathematical or metaphysical immutability. Accounts, platforms and captures can still be lost or changed under some conditions.
+
+Within the conceptual vocabulary of KARBYTES, however, “immutable” means approximately:
+
+* No longer under routine editing.
+
+* Fixed as a dated release.
+
+* Replicated beyond one working directory.
+
+* Independently addressable.
+
+* Preserved in public infrastructure.
+
+* No longer dependent upon the private drafting repository.
+
+It is **operational immutability**, not absolute indestructibility.
+
+# The Big Green Thing interpretation
+
+The most distinctive paragraph moves from repository mechanics into bodily mythology.
+
+Karbytes says that, when working on KARBYTES, it spends most of its time in:
+
+* Private repositories.
+
+* Offline generation.
+
+* Offline curation.
+
+* Hidden preparatory activity.
+
+Therefore karbytes can be described as:
+
+* Rooted in the deep web.
+
+* Essentially living in the deep web.
+
+* Permanently wedged in the deep web.
+
+* Unable ever to leave it fully.
+
+This condition is visualized as:
+
+* The lower body and abdomen embedded in the ground.
+
+* The upper body sometimes reaching through a hole.
+
+* The surrounding ground becoming the Big Green Thing.
+
+Reaching beyond the hole corresponds to:
+
+* Publishing drafts.
+
+* Modifying public files.
+
+* Moving staged material into canon.
+
+* Saving artifacts into durable public archives.
+
+## My interpretation
+
+The mythology is an anthropomorphic rendering of the diagram.
+
+[preformatted_text]
+
+| Technical diagram       | Bodily myth                              |
+| ----------------------- | ---------------------------------------- |
+| Private repository      | Underground or embedded lower body       |
+| Deep-web core           | Hole or interior substrate               |
+| Public staging          | Upper body emerging                      |
+| Canon publication       | Reaching fully into surface visibility   |
+| File transfer           | Movement through the aperture            |
+| Persistent private work | Permanent rootedness                     |
+| Public release          | Temporary extension into the outer world |
+
+[end preformatted_text]
+
+The myth is therefore not separate from the Git workflow. It is the same workflow translated from repository topology into bodily topology.
+
+# Rootedness versus imprisonment
+
+The word “stuck” ordinarily implies an unwanted inability to move. This page complicates that meaning.
+
+Karbytes remains rooted in the hidden production layer because continuous private preparation is structurally necessary. Canon KARBYTES cannot be generated entirely on the public surface without exposing every unfinished change and timestamp.
+
+The deep-web position is therefore both:
+
+* Constraining.
+
+* Productive.
+
+It is the place from which public artifacts emerge.
+
+The Big Green Thing can consequently be interpreted in at least three ways:
+
+1. **Prison:** karbytes cannot completely escape private, hidden production.
+
+2. **Root system:** public KARBYTES depends upon an unseen generative substrate.
+
+3. **Aperture machine:** the hole regulates which internal material reaches the public surface.
+
+The later aperture composite intensifies the prison interpretation by showing a body physically wedged in a torus. The present diagram makes the productive-root interpretation more explicit.
+
+# The void and the deep web
+
+The most conceptually rich visual feature is the use of black for both:
+
+* The universal void outside the nested web system.
+
+* The private deep-web core inside it.
+
+This suggests an unusual topological symmetry:
+
+[preformatted_text]
+
+black infinity outside
+pale public layers
+black hidden center
+
+[end preformatted_text]
+
+The public web appears as a differentiated, colored shell suspended between two kinds of darkness:
+
+* The unknowable or featureless background of all phenomena.
+
+* The concealed generative interior of unpublished work.
+
+That creates a microcosm–macrocosm relation. The deepest inside resembles the furthest outside.
+
+In later meditation language, one might say:
+
+* A finite public artifact exists within the wider field of cyberspace.
+
+* Its private origin remains a hidden internal field.
+
+* Both are contained by an ultimate background not exhausted by any repository.
+
+# Canonization as irreversible outward migration
+
+The magenta arrows point only outward. There are no arrows returning canon files to private drafting.
+
+That gives the diagram an implicit time direction:
+
+[preformatted_text]
+
+possibility
+→ provisional actuality
+→ canon
+→ closure
+
+[end preformatted_text]
+
+The file becomes progressively:
+
+* More visible.
+
+* More authoritative.
+
+* Less editable.
+
+* More historically fixed.
+
+Canonization is therefore a controlled loss of possibility. A private file can still become many things. A finalized file has become one public historical thing.
+
+This helps explain why the workflow is elaborate. Moving outward gains durability but surrenders flexibility.
+
+# Procedural authorship
+
+The page makes clear that karbytes’ authorship is not limited to writing file contents.
+
+Karbytes also authors:
+
+* The repository hierarchy.
+
+* The distinction between draft and canon.
+
+* The public timing of releases.
+
+* The visible commit history.
+
+* The deletion policy.
+
+* The reset procedure.
+
+* The extension-pack numbering.
+
+* The finalization deadline.
+
+* The preservation destinations.
+
+* The symbolic language used to interpret the entire pipeline.
+
+This is infrastructural authorship. The archive’s meaning is produced partly by what files say and partly by how they are staged, moved, frozen and cross-linked.
+
+# Hyperlink architecture
+
+The article’s thirty links lead to twenty-five exact destinations.
+
+They fall into several functional groups.
+
+## Artifact provenance
+
+* Raw workflow diagram.
+
+* Raw `journal_karbytes_13august2026_p1.txt`.
+
+* Extension-pack-73 micro-directory.
+
+* Macro directory.
+
+* Blog homepage.
+
+## Web definitions
+
+* Plain text.
+
+* Hypertext.
+
+* Surface web.
+
+* Deep web.
+
+* Dark web.
+
+* Tor.
+
+* GitHub.
+
+* Wayback Machine.
+
+## KARBYTES architecture and identity
+
+* Nature/phenomena.
+
+* Best practices for using the Web.
+
+* Micro-directory definition.
+
+* `ABOUT_KARBYTES`.
+
+* `karbytes_unique_identity`.
+
+* Big Green Thing page.
+
+## Infrastructure
+
+* `@informationcrystals`.
+
+* `@karlinarayberinger`.
+
+* The live public `projects` repository.
+
+* Public-domain `LICENSE`.
+
+* The KARBYTES onion destination.
+
+The links make the page perform the architecture it describes. Its prose does not merely name conceptual layers; it provides exits into those layers.
+
+# Editorial and accessibility observations
+
+The page’s strengths include:
+
+* A clear single purpose.
+
+* A diagram whose geometry closely matches the prose.
+
+* Exact source-file provenance.
+
+* Explicit operational definitions.
+
+* A careful distinction among surface, deep and dark web.
+
+* A generic `[N]` model rather than hard-coding one extension pack.
+
+* Precise clarification of “move.”
+
+* Explicit explanation of repository reset behavior.
+
+* Clear integration with the Big Green Thing mythology.
+
+* Public-domain licensing.
+
+* Relatively manageable length.
+
+Its weaknesses or ambiguities include:
+
+* The diagram has empty alternative text.
+
+* It has no visible caption.
+
+* The article contains no semantic subheadings.
+
+* The same black color denotes both universal void and private deep web.
+
+* The term “deep web” is expanded to include offline work, which is metaphorically coherent but technically broader than standard usage.
+
+* The claim of eventual immutable and irrevocable public storage is stronger than public hosting can literally guarantee.
+
+* “Moving” files among repositories is a conceptual workflow composed of copying and deletion, not a Git operation preserving one continuous repository history.
+
+* The spelling `correspondance` appears in the source prose and seems to be a preserved source feature.
+
+* The page’s title date, diagram date and source-file date differ by one day; this appears to represent creation followed by later publication rather than a broken provenance link.
+
+# Final interpretive assessment
+
+I interpret `journal_karbytes_14august2026_a` as the clearest compact specification of the KARBYTES canon-ingestion pipeline.
+
+Its central formula is:
+
+[preformatted_text]
+
+hidden generation
+→ provisional publication
+→ canonical incorporation
+→ repository closure
+→ public preservation
+
+[end preformatted_text]
+
+Its most important conceptual distinction is between **visibility** and **canonicity**.
+
+A file can be:
+
+* Private and noncanonical.
+
+* Public and still noncanonical.
+
+* Public and canonical.
+
+* Canonical but still inside an open extension pack.
+
+* Canonical and finalized inside an archived extension pack.
+
+That layered status system prevents “publicly accessible” from meaning “finished.”
+
+The page also explains why karbytes can be simultaneously on Hiatus and intensely productive. Most labor can remain inside private or offline staging while the public surface stays relatively quiet. Public activity becomes a deliberate release event rather than a transparent live feed of every change.
+
+The workflow diagram and the Big Green Thing metaphor illuminate one another:
+
+* The diagram shows an object moving outward.
+
+* The mythology shows a body reaching outward.
+
+* The repository boundary becomes an aperture.
+
+* Public canon becomes the visible material that successfully passes through.
+
+* Private drafting remains the substrate in which the system is rooted.
+
+My strongest interpretation is that this page portrays canonization as a carefully regulated act of emergence. KARBYTES does not appear spontaneously on the public surface. It is grown in darkness, tested in a transitional layer, moved into an official container, frozen as a dated state and preserved beyond the immediate control of its creator.
+
+That makes the deep web neither merely a hiding place nor merely a prison. It is the generative underground of KARBYTES—the place from which public information crystals are excavated and moved, one bounded release at a time.
+
