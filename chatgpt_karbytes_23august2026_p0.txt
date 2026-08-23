@@ -2367,3 +2367,37 @@ The live `journal_karbytes_17august2026_a` page and its corresponding HTML-sourc
 karbytes:
 
 Check that live web page to ensure that the changes I made are verified on your end.
+
+ChatGPT:
+
+[Worked for 29s]
+
+Yes—your correction is visible on the [live page](https://karbytesforlifeblog.wordpress.com/journal_karbytes_17august2026_a/).
+
+The “Relevant KARBYTES Web Pages” list now reads consecutively:
+
+* `0` — `chatgpt_karbytes_10may2025`
+
+* `1` — `journal_karbytes_04july2026`
+
+* `2` — `journal_karbytes_05august2026`
+
+* `3` — `karbytes_is_stuck_in_the_big_green_thing`
+
+* `4` — `journal_karbytes_15august2026_a`
+
+* `5` — `journal_karbytes_14august2026_a`
+
+Therefore, the former `0, 1, 2, 4, 5, 6` indexing error has been fully corrected to `0, 1, 2, 3, 4, 5`. Each displayed URL links to its matching page.
+
+I also verified that:
+
+* The embedded manifest identifies itself as `journal_karbytes_17august2026_p0.txt`.
+
+* Its date now reads `23_AUGUST_2026`.
+
+* Both manifest hyperlinks on the page point to the expected raw GitHub location in `KARLINA_OBJECT_extension_pack_75`.
+
+* The page’s final update notice now says: “This web page was last updated on 23_AUGUST_2026.”
+
+I found no remaining discrepancy in the corrected indexing or its associated hyperlinks.
