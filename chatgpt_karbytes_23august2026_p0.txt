@@ -135,3 +135,13 @@ Understood. I revise my conclusions accordingly:
 * The social-media source/live-page difference should likewise be regarded cautiously while the update is underway.
 
 The central audit result remains unchanged: **all 75 raw-file hyperlinks are complete and correctly targeted, and all 19 `(*)` links point to their intended pages**—with only the live availability of the two `.onion` destinations not independently tested. A definitive content-synchronization audit would be most meaningful after the canon update is finalized.
+
+karbytes:
+
+The micro-directory hyperlink audit I had you do was a sort of "checkpoint" operation to ensure that I'm eliminating hyperlink errors before I get to what seems like the final canon KARBYTES update of that micro-directory (which I don't expect will happen for at least a few more weeks (and right now it is approximately 2:38AM Pacific Standard Time on 23_AUGUST_2026 from my vantage in The Burrow (which is approximately located at the longitude-latitude coordinates specified in the following KARBYTES web page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_31may2026/))).
+
+What I would like you to do now (just to be extra thorough with the interim auditing of the KARLINA_OBJECT_extension_pack_75 micro-directory) is the following...
+
+On the following web page, verify whether or not the sub-index pages whose index numbers are numbered 198 to 202 contain all of the aforementioned hyperlinks with the one exception being that the links may appear in a different order than how they appear in the respective micro-directory (i.e. KARLINA_OBJECT_extension_pack_75) and each of the sub-index hyperlinks display the full URL they point to as their visible components:
+
+https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/
