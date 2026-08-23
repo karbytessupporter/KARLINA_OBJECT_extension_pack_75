@@ -1,0 +1,137 @@
+/**
+ * file: chatgpt_karbytes_23august2026_p0.txt
+ * type: plain-text
+ * date: 23_AUGUST_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Work Mode which took place between 11:59PM Pacific Standard Time on 22_AUGUST_2026 and 11:59PM Pacific Standard Time on 23_AUGUST_2026.
+
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_22august2026_e/
+
+* * *
+
+karbytes:
+
+Examine the following micro-directory web page to determine whether or not each hyperlink which is supposed to link to a raw GitHub file inside of the GitHub repository named KARLINA_OBJECT_extension_pack_75 actually links to the correct file (and ensure that every file inside of that GitHub repository has a corresponding full-URL hyperlink on that micro-directory web page):
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_75/
+
+Also verify whether or not every hyperlink on that micro-directory web page whose visible text is simply an asterisk enclosed in parentheses links to the correct web page.
+
+Finally, point out any discrepancies you notice while completing the requested task.
+
+ChatGPT:
+
+[Worked for 10m 33s]
+
+## Audit result
+
+The [micro-directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_75/) passes the central completeness-and-correctness audit against the current [`KARLINA_OBJECT_extension_pack_75`](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_75/) repository.
+
+* Repository files: **75**
+
+* Raw-repository hyperlinks on the page: **75**
+
+* Missing hyperlinks: **0**
+
+* Hyperlinks for nonexistent or unrelated files: **0**
+
+* Duplicate raw-file hyperlinks: **0**
+
+* Visible-URL/underlying-`href` mismatches: **0**
+
+* Raw-file URLs returning HTTP 200: **75 of 75**
+
+Thus, every current repository file has exactly one corresponding full-URL hyperlink, and every such hyperlink points to the correctly named file in the correct repository and `main` branch.
+
+## Parenthesized-asterisk links
+
+There are **19** hyperlinks whose visible text is `(*)`.
+
+[preformatted_text]
+
+| Corresponding source file                                                             | Asterisk destination                                                                                                               | Result                                                        |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| `unlisted_web_page_KARBYTES_BLOG_APPS_github_hosted_website_index.html`               | [KARBYTES_BLOG_APPS](https://karlinarayberinger.github.io/KARBYTES_BLOG_APPS_github_hosted_website/)                               | Correct; HTTP 200                                             |
+| `unlisted_web_page_chatgpt_karbytes_19august2026_a.html`                              | [chatgpt_karbytes_19august2026_a](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_19august2026_a/)                      | Correct; HTTP 200                                             |
+| `unlisted_web_page_chatgpt_karbytes_20august2026_a.html`                              | [chatgpt_karbytes_20august2026_a](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_20august2026_a/)                      | Correct; HTTP 200                                             |
+| `unlisted_web_page_chatgpt_karbytes_22august2026_a.html`                              | [chatgpt_karbytes_22august2026_a](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_22august2026_a/)                      | Correct; HTTP 200                                             |
+| `unlisted_web_page_chatgpt_karbytes_22august2026_b.html`                              | [chatgpt_karbytes_22august2026_b](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_22august2026_b/)                      | Correct; HTTP 200                                             |
+| `unlisted_web_page_chatgpt_karbytes_22august2026_c.html`                              | [chatgpt_karbytes_22august2026_c](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_22august2026_c/)                      | Correct; HTTP 200                                             |
+| `unlisted_web_page_chatgpt_karbytes_22august2026_d.html`                              | [chatgpt_karbytes_22august2026_d](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_22august2026_d/)                      | Correct; HTTP 200                                             |
+| `unlisted_web_page_chatgpt_karbytes_22august2026_e.html`                              | [chatgpt_karbytes_22august2026_e](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_22august2026_e/)                      | Correct; HTTP 200                                             |
+| `unlisted_web_page_journal_karbytes_09october2025.html`                               | [journal_karbytes_09october2025](https://karbytesforlifeblog.wordpress.com/journal_karbytes_09october2025/)                        | Correct; HTTP 200                                             |
+| `unlisted_web_page_journal_karbytes_21august2026_a.html`                              | [journal_karbytes_21august2026_a](https://karbytesforlifeblog.wordpress.com/journal_karbytes_21august2026_a/)                      | Correct; HTTP 200                                             |
+| `unlisted_web_page_journal_karbytes_22august2026_a.html`                              | [journal_karbytes_22august2026_a](https://karbytesforlifeblog.wordpress.com/journal_karbytes_22august2026_a/)                      | Correct; HTTP 200                                             |
+| `unlisted_web_page_karbytes_darknet_websites_root_directory_web_page.html`            | `qkbr…iegsi3yd.onion`                                                                                                              | Target association is correct; live availability requires Tor |
+| `unlisted_web_page_karbytes_first_onion_web_page.html`                                | `ijnq…wpj6v4yd.onion`                                                                                                              | Target association is correct; live availability requires Tor |
+| `unlisted_web_page_karbytes_full_genome.html`                                         | [karbytes_full_genome](https://karbytesforlifeblog.wordpress.com/karbytes_full_genome/)                                            | Correct; HTTP 200                                             |
+| `unlisted_web_page_karbytes_social_media_posts_koep75.html`                           | [karbytes_social_media_posts_koep75](https://karbytesforlifeblog.wordpress.com/karbytes_social_media_posts_koep75/)                | Correct; HTTP 200                                             |
+| `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_index.html`       | [precision-batches index](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches/)                   | Correct; HTTP 200                                             |
+| `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_0.html` | [precision-batches extension 0](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_0/) | Correct; HTTP 200                                             |
+| `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_1.html` | [precision-batches extension 1](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/) | Correct; HTTP 200                                             |
+| `unlisted_web_page_mdisc_karbytes2026_8.html`                                         | [mdisc_karbytes2026_8](https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2026_8/)                                            | Correct; HTTP 200                                             |
+
+[end preformatted_text]
+
+The two onion destinations are also explicitly identified inside their corresponding source files, so their target strings are correct. I could not independently establish whether those servers were presently online because that requires Tor access.
+
+## Discrepancies noticed
+
+1. **Three files are not listed in repository order.**
+
+The directory states that the links appear “in the order those files appear in that GitHub repository.” Near the end, the page uses:
+
+1. `...precision_batches_index.html`
+
+2. `...precision_batches_extension_0.html`
+
+3. `...precision_batches_extension_1.html`
+
+The repository tree’s order is:
+
+1. `...precision_batches_extension_0.html`
+
+2. `...precision_batches_extension_1.html`
+
+3. `...precision_batches_index.html`
+
+This does not break any hyperlink, but it contradicts the page’s ordering statement.
+
+2. **The social-media source snapshot is slightly behind its live page.**
+
+[`unlisted_web_page_karbytes_social_media_posts_koep75.html`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_75/main/unlisted_web_page_karbytes_social_media_posts_koep75.html) ends with the Patreon entry for `chatgpt_karbytes_22august2026_d`. The [live WordPress page](https://karbytesforlifeblog.wordpress.com/karbytes_social_media_posts_koep75/) additionally contains the approximately 2:00AM 23_AUGUST_2026 Patreon entry for `chatgpt_karbytes_22august2026_e`.
+
+3. **The M-DISC source file contains two consecutive versions of the page.**
+
+[`unlisted_web_page_mdisc_karbytes2026_8.html`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_75/main/unlisted_web_page_mdisc_karbytes2026_8.html) contains the complete `mdisc_karbytes2026_8` HTML region twice:
+
+* First copy: newer **20_AUGUST_2026** version, matching the live WordPress page.
+   
+* Second copy: older **19_AUGUST_2026** version.
+
+The two copies differ in their stated date, aggregate folder size, the size of the extension-pack-75 ZIP, and the size of the precision-batches-extension-1 ZIP. The asterisk itself nevertheless points to the correct [live page](https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2026_8/).
+
+In summary: **no raw-file or asterisk hyperlink is misdirected, missing, or broken among the clearnet links.** The actionable problems are the three-item ordering error and the two source-versus-live-content inconsistencies described above.
+
+karbytes:
+
+The apparent misordering of the precision_batches_extension HTML files in the micro-directory web page is intended to mimic the order in which those files appear in the respective GitHub repository.
+
+The current mismatch between M_DISC files is due to the fact that those files are currently being updated because, while this transcript file is being generated, a massive canon KARBYTES update is being implemented.
+
+ChatGPT:
+
+[Worked for 27s]
+
+Understood. I revise my conclusions accordingly:
+
+* The precision-batches ordering is intentional and mirrors the repository’s intended displayed order. I withdraw the “ordering error” finding.
+
+* The M-DISC differences reflect an active, large-scale canon KARBYTES update. They should be treated as temporary synchronization state—not as an archival defect.
+
+* The social-media source/live-page difference should likewise be regarded cautiously while the update is underway.
+
+The central audit result remains unchanged: **all 75 raw-file hyperlinks are complete and correctly targeted, and all 19 `(*)` links point to their intended pages**—with only the live availability of the two `.onion` destinations not independently tested. A definitive content-synchronization audit would be most meaningful after the canon update is finalized.
