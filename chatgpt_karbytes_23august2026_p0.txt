@@ -145,3 +145,80 @@ What I would like you to do now (just to be extra thorough with the interim audi
 On the following web page, verify whether or not the sub-index pages whose index numbers are numbered 198 to 202 contain all of the aforementioned hyperlinks with the one exception being that the links may appear in a different order than how they appear in the respective micro-directory (i.e. KARLINA_OBJECT_extension_pack_75) and each of the sub-index hyperlinks display the full URL they point to as their visible components:
 
 https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/
+
+[While ChatGPT was in the midst of completing the requested task, karbytes sent the following "followup" message to ChatGPT.]
+
+As a followup, the finalization of KARLINA_OBJECT_extension_pack_75 is expected to happen before 11:59PM Pacific Standard Time on 31_DECEMBER_2026 but most likely much sooner than that; likely within the next four weeks.
+
+[ChatGPT replied to that "followup" message with the following message.]
+
+Understood. I’ll treat the timeline as:
+
+Likely finalization: by approximately 20_SEPTEMBER_2026
+
+Absolute deadline: 11:59PM Pacific Standard Time on 31_DECEMBER_2026
+
+Current status: active, non-final canon update
+
+Current audits: interim checkpoints, not final-state certifications
+
+Once pack 75 is finalized, the definitive audit should compare the repository, WordPress micro-directory, all (*) companions, and precision-batch sub-index pages as one synchronized system.
+
+If useful, I can help schedule that final audit near the four-week target.
+
+ChatGPT:
+
+The checkpoint audit passes.
+
+Across [sub-index pages 198–202](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/), I found:
+
+[preformatted_text]
+
+| Sub-index page                                                                                                                  | Hyperlinks |
+| ------------------------------------------------------------------------------------------------------------------------------- | ---------: |
+| [198](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_198.html) |         21 |
+| [199](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_199.html) |         22 |
+| [200](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_200.html) |         22 |
+| [201](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_201.html) |         22 |
+| [202](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_202.html) |          9 |
+| **Combined**                                                                                                                    |     **96** |
+
+[end preformatted_text]
+
+The results at approximately 2:43AM Pacific Time on 23_AUGUST_2026 were:
+
+* All **75 raw-file URLs** from the preceding micro-directory checkpoint are present.
+
+* All **19 companion destinations** represented by `(*)` on the micro-directory are present.
+
+* Therefore, all **94 checkpointed hyperlinks** are present.
+
+* Every checkpointed hyperlink occurs exactly once across pages 198–202.
+
+* There are no duplicate URLs across the five pages.
+
+* For every one of the **96 total sub-index hyperlinks**, the complete visible text is exactly identical to its underlying `href`, including protocol, capitalization, filename and trailing slash.
+
+* All five sub-index pages returned HTTP 200.
+
+### Active-update observation
+
+The two additional links beyond the checkpointed 94 are:
+
+1. The [extension-pack-75 micro-directory page itself](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_75/), appearing on sub-index page 198.
+
+2. The newly added [`chatgpt_karbytes_23august2026_p0.txt`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_75/main/chatgpt_karbytes_23august2026_p0.txt), appearing on sub-index page 202.
+
+The second URL now returns HTTP 200 and corresponds to a newly present **76th repository file**. At the moment of my check, the WordPress micro-directory still contained its earlier 75-file inventory and had not yet added this new file.
+
+Consequently, the five sub-index pages are presently one step ahead of the WordPress micro-directory:
+
+* **76 current repository raw-file URLs**
+
+* **19 companion-page URLs**
+
+* **1 micro-directory URL**
+
+* **96 unique URLs total**
+
+This is consistent with the large canon update currently underway. It is the only synchronization difference I found; the sub-index pages themselves are complete and correctly formatted.
