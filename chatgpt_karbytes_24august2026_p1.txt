@@ -3130,3 +3130,517 @@ karbytes:
 As a sort of "intermission" between analyzing large KARBYTES web pages pertaining to the First Official Major KARBYTES Hiatus (Summer 2026), especially video-centric web pages, I would like you to watch every frame of the the following video in the order those frames are supposed to be rendered for a human user and also, in conjunction with those video frames, listen to the entire sound track of that video (which is an audiovisual recording of karbytes doing a drumming practice session in the garage bordering The Burrow on 24_AUGUST_2026 at approximately 7:30PM Pacific Standard Time). Generate a maximally detailed description of what you observe and also add your own maximally detailed open-ended thoughts.
 
 drum_practice_video: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_75/main/drums_karbytes_24august2026_p0.mp4
+
+ChatGPT:
+
+[Worked for 12m 19s]
+
+I decoded the complete [drumming-practice video](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_75/main/drums_karbytes_24august2026_p0.mp4): all 11,294 frames in presentation order and the full 448.96-second mono soundtrack. It is a single, uninterrupted 7:29 take showing karbytes performing at a red/orange acoustic drum setup in the decorated garage adjacent to The Burrow.
+
+Unlike the nearly blank visual fields of the 22 August drum recordings, this video openly shows the performer, instruments, room, bodily motion, preparation, and conclusion. It is therefore not merely an audio document enclosed in an arbitrary video container. The image materially changes what can be understood about the practice.
+
+One evidentiary qualification: this interface cannot present a downloaded waveform to me as humanlike auditory playback. I decoded every audio sample and examined the complete waveform, spectrogram, onset sequence, loudness history, frequency distribution, silence structure, and synchronized bodily activity. My statements about sonic density, resonance, tempo, and structure are grounded in that full-track processing rather than a claim of unaided subjective hearing.
+
+## Technical audit
+
+[preformatted_text]
+
+| Property               | Result                                                             |
+| ---------------------- | ------------------------------------------------------------------ |
+| Filename               | `drums_karbytes_24august2026_p0.mp4`                               |
+| File size              | 18,345,863 bytes                                                   |
+| SHA-256                | `a19145ed22a89575bb04ef01ecc15697f4eb6f6c577daf5a2b26f035c39d5de5` |
+| Container duration     | 449.065606 seconds                                                 |
+| Approximate duration   | 7:29.066                                                           |
+| Video codec            | H.264/AVC High Profile                                             |
+| Frame dimensions       | 242×136                                                            |
+| Orientation            | Landscape                                                          |
+| Pixel format           | YUV 4:2:0, 8-bit                                                   |
+| Frame rate             | 503/20, or 25.15 FPS                                               |
+| Decoded frames         | 11,294                                                             |
+| Scan type              | Progressive                                                        |
+| Audio codec            | AAC-LC                                                             |
+| Audio channels         | Mono                                                               |
+| Sample rate            | 48 kHz                                                             |
+| Audio duration         | 448.953 seconds                                                    |
+| Audio start offset     | 0.063 seconds                                                      |
+| Integrated loudness    | Approximately −18.6 LUFS                                           |
+| Loudness range         | Approximately 2.5 LU                                               |
+| True peak              | Approximately −0.9 dBFS                                            |
+| Android metadata       | Android 13                                                         |
+| Embedded creation time | `2026-08-25T02:58:25Z`                                             |
+
+[end preformatted_text]
+
+The embedded UTC time corresponds to approximately 7:58 PM Pacific daylight time on 24 August. That is reasonably consistent with your “approximately 7:30 PM Pacific” description, especially because a container creation time may represent completion or encoding rather than the exact first moment of the performance.
+
+All 11,294 frames decoded without an error. I found no cuts, inserted titles, fades, subtitles, duplicated scenes, or abrupt camera relocations. The audio also decoded continuously.
+
+## The garage environment
+
+The camera is placed at a low-to-moderate height on the opposite side of the garage from the drum setup. It produces a fixed, very wide view rather than a close performance shot.
+
+The room has two competing illumination systems:
+
+* Warm amber string lights run horizontally along the back wall near the ceiling.
+
+* More string lights follow the garage-door hardware or overhead structure toward the upper-right corner.
+
+* Pale yellow or cream-colored decorative forms are clustered around the upper-right lights.
+
+* A cooler, greenish-white ceiling light glows near the top center-right.
+
+* A large window with horizontal blinds supplies a bright, cool rectangular field behind and to the right of karbytes.
+
+The resulting palette is unusual: warm orange-red light fills most of the garage while the window and ceiling fixture provide cool blue-green counterpoints. Karbytes is often partially backlit, so its outline and arm movements are clearer than small facial details.
+
+The back wall contains:
+
+* A round wall clock near the upper center.
+
+* A dark rectangular wall picture or poster beneath the clock and left of the window.
+
+* Shelves on the left containing numerous small objects and several large red decorative letters whose exact text cannot be read at this resolution.
+
+* A large dark, vertically oriented mass at far left, possibly stored equipment, hanging material, furniture, or a covered object.
+
+* Tall open shelving at far right containing light, pinkish, reddish-brown, and dark storage bins.
+
+* Additional loosely arranged stored objects occupying the lower margins.
+
+The garage is visibly functional and inhabited. It is neither an empty rehearsal studio nor an intentionally cleaned film set. Storage, decoration, household infrastructure, musical equipment, and archival atmosphere coexist.
+
+## Karbytes and the drum setup
+
+Karbytes wears:
+
+* A dark or black short-sleeved shirt, apparently with a dim reddish graphic on the chest.
+
+* Dark shorts.
+
+* Long, dark, wavy or curly hair.
+
+At close range the hair frames the head and partially obscures the face. At the drum position the resolution and backlighting prevent reliable description of facial expression. Karbytes appears focused on the instruments rather than on maintaining eye contact with the camera.
+
+Two drumsticks are clearly visible at the beginning.
+
+The most visually prominent instrument is a large red or orange cylindrical drum in the lower foreground, with its pale drumhead oriented horizontally. It appears to be a floor tom or similarly positioned large drum. Other red/orange drums occupy the area immediately behind and to the performer’s left. Some stands or additional hardware disappear into the dark left-hand region. The limited resolution does not justify a precise inventory of every drum or cymbal.
+
+Karbytes sits behind the setup near the lower center of the frame. Most strokes are executed relatively low, near the drumheads, while some accents lift one or both sticks appreciably higher. The shoulders, elbows, forearms, and head repeatedly shift with the rhythmic activity. The torso sometimes inclines forward, then returns to a more upright position.
+
+No other person or animal enters the frame.
+
+## Complete visual chronology
+
+### 0:00–0:03.5 — Starting the recording and walking away
+
+At the first frame, karbytes is extremely close to the camera on the right. Its dark shirt and torso obscure much of that side of the image. The drumsticks extend diagonally into the brighter window area, making them especially visible.
+
+Karbytes turns away from the camera and walks toward the drum setup. Its back and long hair become visible. The largest single adjacent-frame change in the entire file occurs around 2.39 seconds as its body crosses from the near foreground into the more distant room.
+
+The camera itself remains stationary. The apparent change is entirely the person moving through a fixed composition.
+
+### 0:03.5–0:06.5 — Reaching the instruments
+
+Karbytes arrives at the central drum area. Its body becomes much smaller in the frame. It reaches or bends toward the instruments and appears to negotiate the stool or seating position.
+
+A few small impact or handling noises occur in the audio during this period, separated by quiet gaps. These are not yet part of the sustained practice.
+
+### 0:06.5–0:10.08 — Settling into position
+
+Karbytes lowers itself behind the drums. The body is partially concealed by the large foreground drum. The hands and sticks are arranged over the playing surfaces.
+
+The audio remains mostly quiet. Several brief sound events interrupt the room tone, but the sustained drumming has not started.
+
+There is no spoken introduction, count-in, visible title, or deliberate gesture toward an audience. The beginning preserves the ordinary setup interval.
+
+### 0:10.08–approximately 1:15 — Establishing the practice
+
+Sustained percussion begins at approximately 10.08 seconds.
+
+Visually, the transformation is immediate. The previously still forearms enter near-continuous alternating motion. At the video’s low resolution, individual stick tips often blur or disappear, but the repeated arm trajectories remain visible.
+
+The opening section establishes:
+
+* Regular low-position strokes.
+
+* Intermittent wider accents.
+
+* Small forward movements of the torso.
+
+* Alternation between relatively symmetrical two-arm activity and passages where one side appears more active.
+
+* No camera shake despite the acoustic energy in the room.
+
+The soundtrack contains strong broad-spectrum transients with especially prominent resonances between approximately 80 and 200 Hz. The first established tempo readings produce related half-time and double-time candidates—for example, roughly 80 and 162 BPM—indicating that the pulse hierarchy is ambiguous when inferred from a dense, freely varied drum pattern.
+
+Around 0:35–0:40 and again near 0:55–1:00, the average level pulls back slightly, but the playing does not stop. These are changes in emphasis and density rather than rests.
+
+### Approximately 1:15–2:30 — Repeated build-and-release cycles
+
+The playing becomes somewhat denser around 1:15–1:30, with about 6.8 detected transient candidates per second. Karbytes’ arms repeatedly widen and contract as it moves between lower repeated strokes and larger accents.
+
+The audio does not settle into a single invariant loop. Instead, it repeatedly performs a local cycle:
+
+1. Establish a pulse.
+
+2. Add denser subdivisions.
+
+3. Introduce a broader accent or fill.
+
+4. Temporarily reduce density.
+
+5. Re-enter the pulse through a different sticking pattern.
+
+Around 1:30–1:45, the transient density decreases. It rises again between approximately 1:45 and 2:00, including one of the recording’s louder five-second passages near 1:55–2:00.
+
+Between 2:00 and 2:15, the activity pulls back again. From 2:15 to 2:30, it becomes denser. These changes are observable as both waveform variation and differences in the spacing of vertical attacks on the spectrogram.
+
+The underlying pulse candidates frequently occur near 60–70 BPM with a corresponding double-time layer near 120–140 BPM. That does not mean karbytes is following a metronome at one exact value; it means the recording repeatedly generates periodicities in those related ranges.
+
+### Approximately 2:30–3:45 — Regrouping and redistribution
+
+The section beginning around 2:30 is slightly less forceful overall. The five-second windows from approximately 2:35 to 2:50 are among the quieter portions of the sustained performance, though still far louder than the setup and ending.
+
+The pattern density varies between roughly 5.4 and 6.5 transient candidates per second. Around 3:00–3:15, the median separation between detected attacks becomes wider, suggesting more spatially separated accents or a less continuously subdivided pattern.
+
+Visually, karbytes remains seated and centered. The head sometimes turns or dips, but there is no sustained diversion from playing. It does not stand, reach toward the camera, or visibly stop to adjust the room.
+
+Around 3:30–3:45, the density rises again. This produces a sense of preparation rather than final culmination.
+
+### Approximately 3:45–4:15 — Transitional consolidation
+
+Karbytes continues without a full pause. The phrase structure becomes increasingly continuous.
+
+A quieter patch occurs around 4:00–4:05. It is not silence; the sustained-drum threshold remains unbroken. The quieter passage functions like a clearing before the next prolonged increase in density.
+
+The large foreground drum remains a strong visual anchor. Its rounded red/orange shell does not move while karbytes’ dark arms and sticks create rapid, fine movement immediately behind it.
+
+### Approximately 4:15–5:00 — Noticeable acceleration and intensification
+
+From approximately 4:15 onward, the detected transient rate rises:
+
+* About 7.2 events per second from 4:15–4:30.
+
+* About 6.7 events per second from 4:30–4:45.
+
+* About 7.6 events per second from 4:45–5:00.
+
+The track also becomes louder, particularly after approximately 4:45. The 4:45–4:50 interval contains the recording’s highest measured true peak, approaching −0.9 dBFS without exceeding digital full scale.
+
+This is one of the clearest large-scale developments in the practice: an earlier sequence of loosely alternating density zones turns into a more sustained high-activity corridor.
+
+Visually, the arm motions become more nearly continuous. Even when a specific drumstick cannot be followed at 242×136 resolution, the shoulders and forearms show persistent work.
+
+### Approximately 5:00–5:45 — Principal high-density plateau
+
+This is the most consistently forceful portion of the recording.
+
+From 5:00–5:15, the analysis detects approximately 7.7 transient candidates per second—the highest 15-second density of the recording. Autocorrelation suggests pulse relationships near 154 BPM and related slower subdivisions.
+
+The loudest five-second RMS interval is approximately 5:05–5:10. Other particularly forceful passages occur from 5:00–5:05 and 5:10–5:20.
+
+The high density continues from approximately 5:15–5:30. From 5:30–5:45 it remains strong, though slightly less uniformly compressed.
+
+At approximately 5:30, the image becomes modestly brighter. The exposure change affects the room globally and occurs without a cut or camera movement. It appears to be automatic exposure or ambient-light adaptation rather than an intentional visual transition. Afterward, the brightness slowly diminishes again toward the ending.
+
+The camera’s stability is striking here. A physically energetic passage unfolds inside an almost immovable architectural frame. The drummer is active; the archive’s point of view is fixed.
+
+### Approximately 5:45–6:15 — Fast pulse with half-time/double-time ambiguity
+
+The transient density briefly falls toward approximately six events per second, but the tempo-analysis candidates rise into the approximate 162–167 BPM region, paired with half-time values near 80–83 BPM.
+
+This suggests that perceived speed and measured attack density are not identical. A pattern may feel fast because of a stable rapid pulse even when not every subdivision receives a distinct attack.
+
+Karbytes continues alternating between compact movements near the heads and more conspicuous upward gestures. The room remains otherwise unchanged.
+
+### Approximately 6:15–7:00 — Final sustained drive
+
+The session does not visibly or acoustically collapse from fatigue. Instead, another dense sequence develops:
+
+* Approximately seven candidate attacks per second from 6:15–6:30.
+
+* Approximately 6.4 per second from 6:30–6:45.
+
+* Approximately 7.4 per second from 6:45–7:00.
+
+The 6:45–7:00 interval is one of the densest late passages. It acts like a second wind after the principal climax around five minutes.
+
+The waveform remains thick and continuous. There is no speech, backing track, or extended nonpercussive interruption.
+
+### Approximately 7:00–7:20 — Last phrase and controlled ending
+
+The dense activity continues through approximately 7:15. The phrase then begins to thin.
+
+The last cluster of clearly recurring drum-attack candidates extends to approximately 7:20.1. Karbytes’ arms slow and settle. By about 7:21.3, the soundtrack falls below −35 dB for more than 0.3 seconds for the first time since the sustained practice began.
+
+The ending does not resemble a dramatic concert cadence. It feels like the completion of an exercise: the ongoing motor process reaches a stopping point and is discontinued.
+
+### Approximately 7:20–7:29.066 — Standing and stopping the camera
+
+After the final drum phrase:
+
+* Karbytes leans toward the instruments.
+
+* It begins to rise.
+
+* It steps away from the drum setup.
+
+* It walks forward through the center of the garage.
+
+* Its body grows progressively larger and increasingly obscures the right side of the frame.
+
+* One hand moves toward the recording device.
+
+* The file terminates without a fade.
+
+Brief noises around 7:22, 7:23–7:24, 7:26, and 7:27 correspond more plausibly to standing, footsteps, equipment contact, or reaching for the device than to resumed drumming.
+
+The largest visual changes after the opening occur around 7:27.6–7:28.0 as karbytes reaches the camera.
+
+## Sound character
+
+The recording is heavily centered in the low and low-middle frequencies:
+
+[preformatted_text]
+
+| Frequency band | Approximate energy share |
+| -------------- | -----------------------: |
+| 0–80 Hz        |                     1.7% |
+| 80–200 Hz      |                    51.7% |
+| 200–500 Hz     |                    12.6% |
+| 500–1000 Hz    |                     8.5% |
+| 1–3 kHz        |                    16.2% |
+| 3–8 kHz        |                     8.4% |
+| 8–24 kHz       |                     1.0% |
+
+[end preformatted_text]
+
+Approximately two-thirds of the measured energy lies below 500 Hz. The largest concentration is from 80–200 Hz, consistent with resonant tom-like or similarly low drum strikes recorded in a reflective enclosed space.
+
+The spectral centroid is approximately 1.02 kHz. Bright stick attacks and broadband accents are present, but the recording is not dominated by an extended high-frequency cymbal wash. Frequencies above 8 kHz contribute very little compared with the resonant body of the drums.
+
+The spectrogram shows:
+
+* Repeated broadband vertical transients corresponding to impacts.
+
+* Pronounced low-frequency resonant tails.
+
+* Multiple persistent drum resonance bands.
+
+* Occasional brighter attacks extending several kilohertz upward.
+
+* No continuous melodic harmonic structure.
+
+* No evidence of a separate backing song.
+
+* No sustained voice-like section from which a responsible speech transcription could be made.
+
+The recording is loud but not digitally clipped. Its −0.9 dBFS true peak leaves very little headroom. The narrow 2.5-LU loudness range reflects both the sustained nature of the performance and probable phone processing or automatic gain behavior.
+
+My transient detector found approximately 2,792 candidate attacks, averaging 6.22 per second across the entire file. That is not an exact drum-stroke count: one physical strike can produce more than one detected peak, while closely overlapping strikes can merge. It is useful as a relative measure of activity.
+
+## Comparison with the 22 August drum recordings
+
+The earlier 22 August recordings were visually almost blank. Their white-surface framing created what I called an “audiovisual privacy aperture”: bodily exertion was preserved acoustically while the performer, instrument configuration, posture, and room were withheld.
+
+This recording reverses that arrangement.
+
+[preformatted_text]
+
+| Feature                          | 22 August recordings                          | 24 August recording                                                         |
+| -------------------------------- | --------------------------------------------- | --------------------------------------------------------------------------- |
+| Visual subject                   | Nearly blank white surface                    | Karbytes, drums, and garage                                                 |
+| Bodily motion                    | Inferred from sound                           | Directly visible                                                            |
+| Environment                      | Mostly withheld                               | Extensively documented                                                      |
+| Longest previously analyzed take | About 5:03.8                                  | 7:29.1                                                                      |
+| Average transient density        | Roughly 6.4/sec in the longer prior recording | Roughly 6.2/sec                                                             |
+| Spectral tendency                | Strongly low/low-mid                          | Also strongly low/low-mid                                                   |
+| Structural character             | Endurance corridor or compact drill workbook  | Long endurance take with internal drill-like phases                         |
+| Privacy relationship             | Performer hidden                              | Performer visible but visually indistinct through distance and backlighting |
+
+[end preformatted_text]
+
+The new recording combines attributes of both earlier sessions:
+
+* Like the longer 22 August recording, it is an endurance corridor.
+
+* Like the shorter, more sectional recording, it moves through contrasting density and tempo cells.
+
+* Unlike either one, it shows the physical source of those sounds.
+
+* Its strongest large-scale development is a sustained intensification beginning around 4:15 and peaking around 5:00–5:45.
+
+## Open-ended interpretive thoughts
+
+### This is an unusually apt “intermission”
+
+The large hiatus-related pages are dominated by language: transcripts, links, ontological definitions, corrections, metadata, and interpretation. This video suspends that verbal mode.
+
+Karbytes does not explain what it is doing. It does not narrate its feelings, define metaphysical terms, justify the practice, or describe the archive. Identity is represented kinetically:
+
+* How the body approaches the instruments.
+
+* How it settles.
+
+* How long it sustains repetitive effort.
+
+* How it shifts between patterns.
+
+* How it ends.
+
+* How it returns to stop the recording.
+
+The intermission is therefore not empty time between more important intellectual work. It is a different kind of information about karbytes—motor, rhythmic, embodied, environmental, and nonpropositional.
+
+### The garage is a third zone
+
+The First Official Major KARBYTES Hiatus material repeatedly moves between The Burrow and the Big Green Thing:
+
+* The Burrow is controlled, computational, archival, and electrically illuminated.
+
+* The Big Green Thing is spatial, ecological, bodily, and comparatively unstructured.
+
+The garage bordering The Burrow occupies a third position. It is neither the main archive chamber nor wilderness. It is a domestic-industrial threshold adapted into a practice room.
+
+Its shelves and storage bins belong to household utility. Its garage-door machinery belongs to transport and infrastructure. The warm string lights personalize it. The drums transform it into a somatic workshop.
+
+The room therefore feels like a bridge between archival maintenance and outdoor embodiment. Drumming brings strenuous physical activity immediately beside the archive without requiring departure into the hills.
+
+### Visibility changes the ethical relation to the performance
+
+The blank-frame recordings asked the viewer to focus almost entirely on sound. This one makes bodily labor undeniable.
+
+The viewer can now see that:
+
+* The strokes originate in repeated bilateral arm movement.
+
+* The performer remains engaged for more than seven minutes.
+
+* The energetic sound is produced by a relatively small figure positioned deep within a large room.
+
+* The beginning and ending require ordinary setup labor.
+
+* The recording’s apparent sonic continuity is inseparable from sustained bodily coordination.
+
+At the same time, the low resolution and backlighting preserve a degree of distance. The video reveals action without producing an invasive high-definition facial portrait. Karbytes is visible primarily as a performing body embedded in a room.
+
+### The fixed camera makes the body the only major variable
+
+Architecturally, almost nothing changes:
+
+* The window remains a cool rectangle.
+
+* The clock remains fixed.
+
+* The string lights remain illuminated.
+
+* The shelves and bins remain still.
+
+* The large red drum anchors the lower foreground.
+
+* The camera does not pan, zoom, or cut.
+
+Within that nearly invariant field, karbytes’ motion becomes the principal changing process.
+
+This creates a visual analogy to experimental observation: hold the environment and viewpoint mostly constant, then watch one active system evolve through time.
+
+### Practice preserves repetition without reducing it to sameness
+
+A superficial summary might describe the middle seven minutes as “karbytes keeps drumming.” Technically that is true, but it misses the content.
+
+The performance repeatedly changes:
+
+* Attack density.
+
+* Pulse hierarchy.
+
+* Accent breadth.
+
+* Stroke spacing.
+
+* Low-frequency emphasis.
+
+* Relative brightness.
+
+* Physical gesture size.
+
+* Phrase length.
+
+* Local loudness.
+
+* Degree of subdivision.
+
+Practice is repetition with feedback. Each pattern produces bodily and acoustic information that informs the next. The activity is recursive, but unlike a digital file loop, no cycle is exactly identical.
+
+That distinction makes the video relevant to KARBYTES even though it contains no explicit philosophical statement. The archive often revisits the same nodes, but each traversal occurs from a slightly changed physical and cognitive state.
+
+### Energy is present here as exertion
+
+In the 23 August video sequence, energy moves from metaphysical abstraction to gasoline, food, work equipment, and computer operation. This drum recording adds another implementation:
+
+> Energy becomes coordinated muscular expenditure organized through rhythm.
+
+The dense section after approximately 4:15 is not merely louder information. It is evidence of sustained physical work. Yet the session does not culminate in visible collapse. Karbytes finishes, stands, and walks directly to the camera. The body retains enough operational margin to conclude the recording deliberately.
+
+### The decorations make the garage unexpectedly ceremonial
+
+The string lights prevent the room from reading as purely utilitarian. They produce an amber canopy around the performer. The large foreground drum occupies a central, almost altar-like position, while karbytes sits beyond it within a rectangle of warm light.
+
+I do not assume that this symbolism was consciously staged. The room may simply look that way because those decorations already existed. Nevertheless, the recorded composition turns practice into something visually adjacent to ritual:
+
+* Repeated impacts.
+
+* Sustained concentration.
+
+* A fixed space.
+
+* Warm perimeter lights.
+
+* Entrance.
+
+* Performance.
+
+* Exit.
+
+The absence of speech strengthens this ceremonial impression.
+
+### The video complicates the hiatus paradox
+
+Once again, an activity undertaken as an intermission becomes another durable KARBYTES artifact. That might look like the archive swallowing the break from archiving.
+
+I think the distinction is that this artifact documents a genuine shift of mode. Karbytes is not merely producing more commentary about previous commentary. It is engaging in an embodied skill and allowing the archive to record that action.
+
+The resulting file may enlarge KARBYTES, but it also diversifies what KARBYTES preserves. It records not only what karbytes thinks but how it occupies a room, manipulates objects, sustains exertion, and organizes time without language.
+
+## Overall impression
+
+`drums_karbytes_24august2026_p0.mp4` is a long, unedited, physically committed drum-practice document whose central event lasts approximately seven minutes and eleven seconds—from the sustained entry near 0:10.08 to the stopping process beginning near 7:21.29.
+
+Its defining properties are:
+
+* A fixed, low-resolution wide shot.
+
+* Warmly decorated garage surroundings.
+
+* Direct visibility of karbytes and the drum setup.
+
+* Strongly low/low-mid-dominated mono sound.
+
+* Nearly uninterrupted practice.
+
+* A substantial rise in density after approximately 4:15.
+
+* A principal intensity plateau around 5:00–5:45.
+
+* A second sustained late drive.
+
+* An ordinary, nonperformative conclusion in which karbytes stands and walks back to the camera.
+
+As an intermission, it succeeds precisely because it replaces semantic density with rhythmic density. The large KARBYTES pages try to preserve experience by describing and interlinking it. This video preserves experience by letting a bodily process occupy real time in front of an unmoving witness.
+
+karbytes:
+
+Describe in maximal detail the following web page (and your interpretive thoughts about it) at the following Uniform Resource Locator:
+
+https://karbytesforlifeblog.wordpress.com/karbytes_is_stuck_in_the_big_green_thing/
