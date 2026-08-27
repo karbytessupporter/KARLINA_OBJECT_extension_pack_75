@@ -1,0 +1,114 @@
+/**
+ * file: chatgpt_karbytes_27august2026_p0.txt
+ * type: plain-text
+ * date: 27_AUGUST_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Work Mode which took place between 11:59PM Pacific Standard Time on 26_AUGUST_2026 and 11:59PM Pacific Standard Time on 27_AUGUST_2026.
+
+* * *
+
+karbytes:
+
+Examine the following micro-directory web page to determine whether or not each hyperlink which is supposed to link to a raw GitHub file inside of the GitHub repository named KARLINA_OBJECT_extension_pack_75 actually links to the correct file (and ensure that every file inside of that GitHub repository has a corresponding full-URL hyperlink on that micro-directory web page):
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_75/
+
+Also verify whether or not every hyperlink on that micro-directory web page whose visible text is simply an asterisk enclosed in parentheses links to the correct web page.
+
+Finally, point out any discrepancies you notice while completing the requested task.
+
+ChatGPT:
+
+[Worked for 10m 35s]
+
+As of **12:51 AM PDT on 27_AUGUST_2026**, the [micro-directory](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_75/) passes the hyperlink-completeness audit against [repository commit `089be412…`](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_75/tree/089be412e5e141e4d8b0e559ffc194ccf73be76d).
+
+[preformatted_text]
+
+| Check                                  |  Result |
+| -------------------------------------- | ------: |
+| Files in the repository                |     130 |
+| Pack-75 raw-file hyperlinks            |     130 |
+| Unique raw-file hyperlinks             |     130 |
+| Repository files missing from the page |       0 |
+| Page links without corresponding files |       0 |
+| Duplicate raw-file links               |       0 |
+| Visible URL differing from `href`      |       0 |
+| Raw targets returning HTTP 200         | 130/130 |
+
+[end preformatted_text]
+
+Every raw hyperlink uses the correct repository, `main` branch, case-sensitive filename, punctuation, and extension.
+
+### Parenthesized-asterisk links
+
+The page contains **32 `(*)` links**:
+
+* 26 WordPress pages
+
+* 4 GitHub Pages sites
+
+* 2 Tor onion pages
+
+All 30 clearnet destinations returned HTTP 200 and matched the identity and content of their associated HTML files.
+
+Both onion addresses are valid version-3 onion addresses with valid checksums, and each exact address appears inside its corresponding archived HTML file. I could not test whether those two services are presently online because this environment has no Tor connection. Their link mappings are nevertheless correct.
+
+### Discrepancies noticed
+
+1. **Three ordering differences:** all files are present, but the micro-directory does not exactly reproduce GitHub’s displayed order:
+
+- * `journal_karbytes_17august2026_p0.txt` appears before `journal_karbytes_15may2026_p0.txt`.
+
+- * `karbytes_thinking_23august2026_p10.mp4` through `p12.mp4` appear before `karbytes_thinking_22august2026_p2.mp4`, rather than after `karbytes_thinking_23august2026_p1.mp4`.
+
+- * `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_index.html` appears before the `extension_0` and `extension_1` files; GitHub displays the two extension files first.
+
+2. The raw file [`unlisted_web_page_mdisc_karbytes2026_8.html`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_75/main/unlisted_web_page_mdisc_karbytes2026_8.html) contains **two consecutive near-duplicate versions** of the page. The first, dated `20_AUGUST_2026`, matches the [live WordPress page](https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2026_8/); the second is an older version dated `19_AUGUST_2026`. This does not make its `(*)` link incorrect, but it is an internal source-file duplication.
+
+No incorrect, missing, extra, duplicated, or broken clearnet hyperlinks were found.
+
+karbytes:
+
+What I would like you to do now (just to be extra thorough with the interim auditing of the KARLINA_OBJECT_extension_pack_75 micro-directory) is the following… On the following web page, verify whether or not the sub-index pages whose index numbers are numbered 198 to 205 contain all of the aforementioned hyperlinks with the one exception being that the links may appear in a different order than how they appear in the respective micro-directory (i.e. KARLINA_OBJECT_extension_pack_75) and each of the sub-index hyperlinks display the full URL they point to as their visible components: 
+
+https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/
+
+ChatGPT:
+
+[Worked for 2m 54s]
+
+The combined sub-index pages **198–205 contain all 162 expected hyperlinks**, regardless of ordering:
+
+[preformatted_text]
+
+| Expected category              |     Present | Full URL visible |
+| ------------------------------ | ----------: | ---------------: |
+| Pack-75 raw-file URLs          |     130/130 |          130/130 |
+| Former `(*)` destinations      |       32/32 |            31/32 |
+| **Total unique expected URLs** | **162/162** |      **161/162** |
+
+[end preformatted_text]
+
+I found no missing expected URLs, but the collection is not completely compliant with the visible-URL requirement.
+
+### Discrepancies
+
+1. On [sub-index page 203](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_203.html), this destination is correct:
+
+`https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_24august2026_a/`
+
+However, its visible hyperlink text remains `(*)`. That text should be replaced with the complete URL above.
+
+2. On [sub-index page 205](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_205.html), the following raw-file hyperlink appears **twice**:
+
+`https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_75/main/chatgpt_karbytes_26august2026_p1.txt`
+
+Both occurrences display the correct full URL, but one is redundant.
+
+3. [Sub-index page 198](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_198.html) additionally contains the full URL of the pack-75 micro-directory itself. This is an extra contextual link, not an error.
+
+All other hyperlinks across [sub-index pages 198–205](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/) have exact matching visible text and `href` values. Therefore, after replacing the single remaining `(*)` and removing the duplicate on page 205, this portion of the precision-batch index will be fully synchronized with the [pack-75 micro-directory](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_75/).
