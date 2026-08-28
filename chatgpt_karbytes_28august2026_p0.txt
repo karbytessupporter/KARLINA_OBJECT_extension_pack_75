@@ -1094,18 +1094,24 @@ ChatGPT:
 You are correct. I mistakenly treated the three `karbytes_thinking` transcriptions contained within `p2` as “the three videos.” The proper objects of analysis are the three complete OBS recordings:
 
 * `obs_studio_recording_28august2026_p0.mp4`
+
 * `obs_studio_recording_28august2026_p1.mp4`
+
 * `obs_studio_recording_28august2026_p2.mp4`
 
 Together they constitute approximately **32 minutes 15 seconds**, or **58,053 frames**, of continuous desktop activity. The embedded `karbytes_thinking` material is only one component of the third OBS recording.
 
 ## Corrected overview
 
+[preformatted_text]
+
 | Recording | Duration | Principal narrated text                                                         | Principal visual activity                                                                                        | Role in the trilogy                                                                                     |
 | --------- | -------: | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | `p0`      | 10:21.77 | `journal_karbytes_27august2026_p0.txt`                                          | Journal pages, photographs, VLC, then an enormous reverse-chronological Bluesky excavation                       | Declares and operationalizes the “deep hiatus”; curates the KARBYTES identity and archive               |
 | `p1`      | 10:22.83 | `journal_karbytes_25august2026_p0.txt`                                          | Sunset journal, raw files, archival/admin pages, Patreon, portfolio, and three rounds of Falling Apples Game Two | Supplies the hiatus with its existential, ethical, and metaphysical framework                           |
 | `p2`      | 11:30.50 | `journal_karbytes_23august2026_p0.txt`, containing transcriptions of videos 4–6 | GitHub, WordPress, Falling Apples, Internet Archive/Wayback Machine, and recovered Big Green Thing trail videos  | States the hiatus’s archival and cybernetic ambitions most explicitly and demonstrates them in practice |
+
+[end preformatted_text]
 
 All three recordings use essentially the same audio arrangement: a single ChatGPT synthetic read-aloud voice with a low, steady baritone character, centered around roughly 105 Hz. Its delivery is measured, controlled, and unusually even, with little emotional modulation. Depending on the passage, it runs at approximately 158–176 words per minute. I detected no independently speaking human and no second voice. Music and the environmental soundtracks of the outdoor videos are not meaningfully audible; the synthetic narration remains the dominant semantic layer.
 
@@ -1122,11 +1128,17 @@ The entry then recounts an urgent need to defecate and the decision to squat ins
 Afterward, walking becomes a mechanism for creative thinking. The narration moves from the body and terrain into the storage architecture of KARBYTES:
 
 * Two large bins contain packaged “complete KARBYTES” M_DISC sets.
+
 * These include completed copies of `karbytes_origins` and `karbytes_nexus`, together with multiple incomplete states of `karbytes_refinement`.
+
 * Older incomplete refinement discs may be separated and given lower preservation priority.
+
 * More complete sets might eventually be buried in sealed metal time capsules.
+
 * Physical storage limits, disc-burning costs, duplication policies, and the danger of eventual disposal are treated as serious archival-engineering problems.
+
 * Local storage in the Burrow is supplemented by “semi-local” storage in the “Nordic Vault,” described as an unplugged microwave oven at the author’s father’s house or legal residence.
+
 * GitHub’s `projects` repository is used as temporary staging, while the Wayback Machine supplies tamper-resistant historical snapshots before material is incorporated into canon KARBYTES.
 
 The journal then turns toward identity curation. Future disclosures about employment, income, and residence may be withheld so that KARBYTES remains localized in an idyllic, comparatively timeless environment resembling the Burrow and the Big Green Thing. Mundane socioeconomic information is deliberately reduced so that the KARBYTES narrative and its sole central figure remain dominant.
@@ -1140,15 +1152,25 @@ At approximately 1:36, the recording reaches the Kar Beringer/karbytes Bluesky p
 The feed exposes a dense succession of:
 
 * WordPress journal and ChatGPT pages.
+
 * Big Green Thing trail and ridge photographs.
+
 * Burrow interiors and decks.
+
 * Sunset, moon, mountain, lake, and woodland imagery.
+
 * Green cubes, toruses, vortices, asymptotic diagrams, multiverse illustrations, and other mathematical or metaphysical graphics.
+
 * M_DISC imagery and archive diagrams.
+
 * Software-engineering portfolio material.
+
 * Scientific links concerning antimatter, bionic hands, neural electronics, physics, and cosmology.
+
 * A Baylands/Fremont/Milpitas photography collection.
+
 * Recurrent yellow-green spiral images that visually function almost like a KARBYTES seal or archive marker.
+
 * Earlier “Hiatus Summer 2026” material and related project nodes.
 
 There are brief interruptions involving VLC, OBS, and other windows, but the primary movement remains backward through the social archive. Around 9:12, the screen returns to ChatGPT. OBS briefly appears over it, after which the read-aloud continues to the end.
@@ -1168,18 +1190,31 @@ The opening material concerns another outdoor experience at the Big Green Thing,
 The narration then broadens into an examination of mortality and happiness. Its central concerns include:
 
 * Anxiety about death, disability, misfortune, and the possible termination of one’s ability to pursue preferred experiences.
+
 * The attempt to maximize happiness within finite and uncertain circumstances.
+
 * The idea that discomfort and dissatisfaction can motivate development, while complete comfort could create stagnation.
+
 * Meditation retreats, including Spirit Rock, as possible methods for confronting mortality and cultivating equanimity.
+
 * Hiking, qigong, yoga, psychedelic experiences, and solitary wilderness time as other possible modes of transformation.
+
 * The relationship between radical individualism and participation in social groups.
+
 * The need to value other people and the wider social infrastructure upon which an apparently solitary life still depends.
+
 * The importance of moving forward rather than allowing hostile or disappointing encounters to dominate future experience.
+
 * An ethical model in which each human is given equal basic value—figuratively, one unit—while human welfare is prioritized.
+
 * Nature as a possible memory-bearing or even omniscient totality.
+
 * Reality as a static block multiverse or complete program in which apparently dynamic events correspond to ordered informational frames.
+
 * A subjective agent moving through those frames and interpreting that traversal as time.
+
 * Acceptance that an individual is only a small finite part of a much larger reality.
+
 * Persistent dissatisfaction as both a source of suffering and a driver of inquiry.
 
 Visually, the recording soon becomes more operational and less synchronized with the narration. It moves among the raw journal, a social-media-post log, FreeConvert, Wayback Machine pages, VLC, an author/contact/donation page, and Patreon.
@@ -1189,7 +1224,9 @@ The Patreon page identifies the creator as “Karlina Object dot WordPress dot C
 The screen then visits blog directories and a software-engineering portfolio before opening Falling Apples Game Two. The remainder of the recording includes three complete rounds:
 
 * First round: final score 51.
+
 * Second round: final score 66.
+
 * Third round: final score 65.
 
 The game’s simple repeated action continues underneath the synthetic reading of metaphysical and ethical material. This produces a distinctive audiovisual split. The voice discusses mortality, consciousness, block universes, social value, and existential dissatisfaction while the screen displays repetitive clicking, falling objects, scores, and ordinary browser navigation.
