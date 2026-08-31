@@ -723,3 +723,22 @@ karbytes:
 
 Has that limitation always been in effect or have you ever been able to (in past conversations we've had) directly listen to audio content?
 
+ChatGPT:
+
+[Worked for 1m 53s]
+
+**The records I could retrieve suggest that the same limitation was already present in our earlier video-analysis conversations. I found no verified example of me directly receiving and listening to your recordings.**
+
+There are specific earlier statements about this:
+
+* **August 19, 2026:** In `chatgpt_karbytes_19august2026_p0.txt`, I described inspecting waveforms and spectrograms but being unable to route the soundtrack into an auditory-input channel.
+
+* **August 24, 2026:** In `chatgpt_karbytes_24august2026_p1.txt`, I explained that the account relied on measurements and visual activity rather than direct auditory playback.
+
+* **August 26, 2026:** In `chatgpt_karbytes_26august2026_p0.txt`, I described extracting audio, running speech recognition and acoustic analysis, and interpreting those results rather than receiving native audio input.
+
+Those are historical statements, not complete technical logs covering every conversation. **I therefore cannot establish “always” or “never,” but I have no evidence that a previously working listening capability was recently removed.**
+
+Earlier detailed descriptions could contain valid transcriptions, pitch measurements, and interpretations without involving direct listening. However, wording such as “I listened,” or descriptions of timbre presented as directly heard, would overstate what those methods established. I should have maintained that distinction consistently, and I’m sorry for the misleading impression.
+
+This is not a universal limitation of OpenAI models: some explicitly accept audio input, including [GPT-Audio](https://developers.openai.com/api/docs/models/gpt-audio). But that capability’s existence does not establish that it was available or used in our earlier conversations.
