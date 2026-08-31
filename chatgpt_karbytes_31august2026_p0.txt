@@ -2568,3 +2568,244 @@ The question the page leaves me considering is how the freedom it seeks could be
 karbytes:
 
 For each auxiliary file URL which is listed as a "relevant" file in each video section on the web page named journal_karbytes_30august2026_a, closely examine the respective resource (which that "relevant" file URL points to) and describe that resource in maximal detail. If the resource is a video, then download that video, watch every frame in succession, listen to the entire audio track, and if speech or vocalization is detected, attempt to transcribe the spoken content and also describe qualities of the voice such as timbre, pitch, and rhythm.
+
+ChatGPT:
+
+[Worked for 13m 52s]
+
+**This is a partial examination, not the completed review of every resource.** I downloaded all **34 distinct resources** represented by the page’s **35 “relevant” listings**, but the analysis workspace disconnected before video processing began. Alternative web access allowed me to read **14 text resources**. The remaining **14 text resources, all six videos, and the page illustrations still require examination**.
+
+The interruption happened after the GitHub downloads succeeded, so it was not a GitHub download failure. I also could not create the companion report file. Below are the findings I can substantiate, arranged according to the video sections, followed by an exact accounting of unfinished work.
+
+For **video 0**, I read the journal page and the 29 August text file.
+
+The page [journal_karbytes_28august2026_a](https://karbytesforlifeblog.wordpress.com/journal_karbytes_28august2026_a/) describes moving from The Burrow into a backyard camping arrangement. Its opening distinguishes a version of karbytes that remains “stuck” indoors from the “main-branch” version that has gone outside. That distinction connects a practical change of location with the archive’s recurring distinction between a recorded instance and an individual whose life continues beyond that recording.
+
+The desired outdoor environment is described through openness: sky, air, birds, and continuity with The Big Green Thing. Indoor discomfort is attributed partly to clutter, smells, domestic noise, and insufficient control over boundaries. The text makes an interesting correction to itself: perhaps the problem is not simply that the space is insufficiently nature-centered, but that it is insufficiently **karbytes-centered**. This narrows an apparently universal claim about buildings into a more personal claim about inhabiting a place whose conditions suit its occupant.
+
+Practical preparations include using a tent if it rains and water jugs to help stabilize it in wind. These details keep the proposal grounded in ordinary arrangements rather than presenting “going outside” as a purely philosophical liberation. Karbytes also acknowledges that it cannot control the backyard or surrounding region completely. The claim is comparative: it feels better outside despite that incomplete control.
+
+Animals function as neighbors whose presence does not seem to demand social performance. However, the page explicitly rejects interpreting them as divine messengers or beings seeking a special relationship with karbytes. It instead offers ordinary explanations involving vigilance, survival, curiosity, and novelty. That qualification is important: the emotional significance of an encounter is distinguished from a claim about an animal’s extraordinary intentions.
+
+The page also qualifies its criticism of humanity. It acknowledges that human civilization includes more than reproductive obligations and that the region where karbytes lives provides substantial opportunities for learning and leisure. This makes the writing less uniformly misanthropic than some isolated passages might suggest.
+
+Its final movement concerns environmental loss and digital preservation. KARBYTES might retain partial representations of wilderness experiences after the original environments have changed or disappeared. Future artificial habitats and reconstructed ecosystems are imagined as possible substitutes, but potentially diminished ones.
+
+My interpretation is that this page explains **what the backyard arrangement was supposed to provide before the next day’s complaints**: continuity with the outdoors, relief from social pressure, and an environment conducive to thought. It also distinguishes experiencing a place from preserving representations of it. The archive can retain something valuable without becoming an equivalent replacement for the living environment.
+
+The plain-text file [journal_karbytes_29august2026_p1.txt](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_75/main/journal_karbytes_29august2026_p1.txt) describes the apparent failure of that refuge. It reports repeated cigarette smoke, abrupt noises, machinery, and difficulty maintaining concentration during the morning and early afternoon of 29 August.
+
+Its rhetoric escalates from specific environmental complaints to interpretations of neighbors’ intentions, including suspicions of surveillance, deliberate provocation, and attempts to force karbytes indoors. **The document records those interpretations; it does not independently establish coordinated harassment or the motives attributed to other people.** The distinction between an observable disturbance and an inferred intention is particularly important here.
+
+The file includes several qualifications that complicate its angrier passages. Karbytes says that misanthropic feelings arise especially strongly in this location and that people elsewhere often seem pleasant and considerate. It explicitly does not want a few objectionable encounters to become representative of humanity generally. It also acknowledges exaggeration in its writing, sometimes as humor or an exercise of expressive freedom.
+
+Another consequential passage considers retaliatory noise-making and then rejects it as an unacceptable use of time and resources. The practical response contemplated is withdrawal into The Burrow, with its door and curtains closed. The text presents this as a frustrating concession rather than a satisfactory resolution.
+
+Read beside the preceding journal page, the two resources form a closely connected sequence: first, an attempt to create a more comfortable outdoor living arrangement; then, an account of why that arrangement no longer feels usable. This gives video 0’s opening discussion of smoke and health a specific textual background. It also shows that the author’s view of other people is more variable and geographically contextual than the broadest statements in the monologue suggest.
+
+For **video 1**, I read the two music-related index pages. Their contents establish a musical and technical context, but reading these indexes is not equivalent to listening to the recordings they list.
+
+[SOUND_TRACK_LOOP_COUNTER_VIDEO_FILES](https://karbytesforlifeblog.wordpress.com/sound_track_loop_counter_video_files/) is an archival support page for the `SOUND_TRACK_LOOP_COUNTER` application. It pairs eleven MP3 recordings with corresponding MP4 resources, numbered 0 through 10.
+
+The collection consists of two wildlife recordings—frogs and coyotes—three drum recordings, and six guitar recordings. The filenames span several years, making the page a small collection of reusable sonic materials rather than a single recording session.
+
+The explanation for providing video versions is practical. The page reports that the Wayback Machine did not preserve playable versions of the linked audio files but did preserve playable video versions containing their soundtracks. This is presented as an experience underlying the page’s design, not as a guarantee about present-day archival behavior.
+
+The “bonus content” proposes opening multiple instances of the application in separate browser tabs. Karbytes recommends combining one drum recording with three guitar recordings to create an indefinitely playing accompaniment for study or computer work. The user therefore becomes an arranger: choosing which recordings coexist, starting them, and controlling their continued playback.
+
+This provides a useful contrast with the complaints about intrusive sound elsewhere. The distinction is not simply between sound and silence. It concerns **who selects the sound, what purpose it serves, and whether the listener can control it**. A chosen, sustained musical environment can support concentration even when unwanted intermittent noise disrupts it.
+
+The page also places animal recordings and human instrumental recordings within the same playback system. Both become materials that can be revisited and arranged. That connects environmental documentation with the musical side of KARBYTES.
+
+[karbytes_black_metal_playlist](https://karbytesforlifeblog.wordpress.com/karbytes_black_metal_playlist/) is a curated list of **52 MP4 links**, numbered `song_0` through `song_51`. Its introductory note calls the collection an introductory sampler rather than an exhaustive catalogue of all black-metal and death-metal recordings in KARBYTES.
+
+The list begins with Setherial, Satanic Warmaster, Calben, Enthroned, Kvaen, and Blackbraid. It includes recordings attributed in their filenames to Mare Cognitum, Elcrost, Into Oblivion, Mastiphal, Ahriman, Pervertum, Crimson Moon, Solefald, Xibalba, Gnome, Lunar Aurora, Dissection, Grotesque, Death, Blacklodge, Enslaved, and others. Immortal appears repeatedly toward the end, including “All Shall Fall,” “Grim and Frostbitten Kingdoms,” “Return to Cold,” “War Against All,” and the final entry, “Within the Dark Mind.”
+
+The filenames carry several kinds of metadata: artist, title, sometimes release year, sometimes download date, and the repository containing the file. Thus, the playlist documents both musical selection and the incorporation of recordings into the archive.
+
+Its relevance to video 1 is interpretive rather than evidentiary proof of a religious position. It supplies a musical context for the monologue’s provocative Satanic language, which video 2 subsequently qualifies. The playlist helps situate that vocabulary within a broader aesthetic repertoire.
+
+I have not listened to these 52 additional recordings during this task. They are links inside an auxiliary index page, rather than the six MP4 files directly marked “relevant_video_file” on the journal page.
+
+For **video 2**, I read [AGENCY](https://karlinaobject.wordpress.com/agency/). This resource materially refines the spoken account.
+
+The page first describes agency as an emergent property of an information-processing system able to model an environment, model itself as part of that environment, and act toward goals. It then distinguishes a definition specifically concerned with self-aware agents from a more general definition involving structured learning and decision-making.
+
+That distinction prevents the page from requiring every goal-directed information-processing system to be conscious. Self-awareness belongs to one formulation; more rudimentary agency is allowed under another. This is more precise than simply equating agency, computation, and consciousness.
+
+The definitions cover an information-processing agent, environment, goal, perception, decision, and execution. An agent is presented as a relatively finite allocation of physical resources that accumulates memories and uses patterns in experience to guide behavior. The environment is described from the agent’s perspective, while a goal is an imagined condition toward which action is directed.
+
+The goal example uses a program that repeatedly generates an integer until it obtains 9. The goal determines a stopping condition, not how many attempts will be required. A proposed improvement remembers unsuccessful outputs and uses them to constrain later attempts. The contrast is between repeated trial and a process that incorporates information from previous trials.
+
+Perception includes current sensory input, memory, and anticipation. Decision reduces several imagined behavioral possibilities to one selected action. Execution implements that action through physical changes. Pseudocode connects these phases cyclically, with a note explaining that a time increment represents completion of a stage rather than necessarily a fixed physical duration.
+
+The page’s value for interpreting the monologue is that it supplies definitions where the speech uses compressed references. Its principal limitation is that a formal vocabulary does not by itself establish how consciousness arises or how a particular system experiences its own operation. The page offers a model for organizing those questions.
+
+For **video 3**, I read [karbytes_species_identifier](https://karbytesforlifeblog.wordpress.com/karbytes_species_identifier/).
+
+This page records a sequence of changes in self-description: `HUMAN_TO_CYBORG`, then `HUMAN`, and finally `HUMAN_TO_CYBERNETIC_BEING`. It therefore presents identity terminology as something revised through reflection rather than as a fixed designation.
+
+The temporary move to `HUMAN` is explained as an attempt to avoid ambiguity and presumption. The text distinguishes ordinary use of devices from stronger forms of biological and technological integration. It invokes the author’s genome and personal history as anchors for its identity.
+
+The later choice of `HUMAN_TO_CYBERNETIC_BEING` broadens the emphasis beyond a particular kind of bodily implant or prosthesis. The author describes beginning as a human and then producing a cybernetic extension through its public files, websites, and other records.
+
+The page distinguishes the continuing person from the preserved collection. If the author’s continuity of consciousness ends, the archive is expected to remain read-only under the author’s stated rules. A later passage further distinguishes a dynamic cybernetic being from an immutable archival core that such a being might use.
+
+That distinction matters more than the label alone. Preserving a body of information, incorporating it into another system, and preserving the original individual’s conscious continuity are different propositions. The page expresses hopes concerning all three, but does not establish that they are equivalent.
+
+It also explains why an older page retains the earlier `HUMAN_TO_CYBORG` terminology: that page is valued as a time capsule. Apparent inconsistency between documents can consequently be an intentional preservation of historical vocabulary.
+
+In relation to video 3, this resource clarifies the imagined audience of future or nonhuman beings. “Cybernetic being” functions as a philosophical and autobiographical identifier, not merely as a claim about current biological taxonomy.
+
+For **video 4**, I read the three compact rules-and-values pages.
+
+[KARBYTES_CONTENT_UPDATING_RULES](https://karbytesforlifeblog.wordpress.com/karbytes_content_updating_rules/) establishes two content-management rules.
+
+The first says that successive changes to KARBYTES occur within ten years of one another. If more than ten years pass without an update, the author directs readers to regard the collection as permanently closed to further updates.
+
+The second reserves authorization to update canonical KARBYTES to its original author. The rule concerns the identity and continuity of the author-maintained collection: it establishes who can continue that particular work under that name and authority.
+
+These rules make absence and cessation interpretable. Silence does not immediately mean that the project has ended, but sufficiently prolonged silence acquires a specified meaning. The decade functions as a declared boundary between a potentially continuing archive and a completed one.
+
+The page therefore supplies an administrative counterpart to the monologue’s concern with precise rules. It is not only about improving individual sentences. It concerns how future readers should interpret the archive’s status when its author is unavailable to explain it.
+
+[KARBYTES_RULES_FOR_ITSELF](https://karbytesforlifeblog.wordpress.com/karbytes_rules_for_itself/) contains three broader rules: speaking only for oneself, avoiding claims of absolute certainty, and maximizing satisfaction for every self-aware information-processing agent throughout nature.
+
+The first rule limits representational authority. Karbytes does not claim to speak on behalf of other people. The second treats its propositions as assumptions rather than expressions of unquestionable certainty.
+
+The third defines satisfaction through an agent’s own assessment that its time is being used in service of authentic goals. Dissatisfaction is the absence of that wanted condition.
+
+An important distinction emerges: **the scope of the speaking voice is personal, while the stated ethical concern is universal**. Those positions need not contradict each other. Someone can speak only for itself while personally endorsing consideration for others.
+
+This page also provides a particularly relevant standard for examining the monologues. Their own associated rules require uncertainty about factual claims and concern for agents beyond karbytes. Consequently, criticisms of unsupported conclusions or coercive proposals need not be imposed from an unrelated philosophy; they can be made using principles already declared within KARBYTES.
+
+At the same time, a general disclaimer of certainty does not make all propositions equally well-supported. It remains useful to distinguish direct observation, plausible inference, speculation, and rhetorical exaggeration within particular passages.
+
+[karbytes_primary_values](https://karbytesforlifeblog.wordpress.com/karbytes_primary_values/) ranks four priorities:
+
+1. **Nature**
+2. **Consciousness**
+3. **Logic**
+4. **Comfort**
+
+“Nature” is defined expansively as the encompassing totality, including phenomena, noumena, and two forms of nothingness. Consciousness concerns the rendering of subjective experience. Logic concerns consistent, apparently rule-governed relationships. Comfort concerns the relative prominence of pleasure and the minimization of pain.
+
+These are the page’s stipulated meanings. In particular, “nature” here is much broader than wilderness or vegetation.
+
+The ordering helps explain why karbytes presents difficult thinking as worthwhile even when it is temporarily uncomfortable. Comfort remains a value, but it is not placed above consciousness and logic. Conversely, its inclusion prevents the framework from being solely about intellectual exertion or abstract consistency.
+
+The page is compact enough to function as a reference against which much longer journal passages can be compared. It makes the hierarchy explicit rather than requiring the reader to infer priorities from whichever subject dominates a particular recording.
+
+For **video 5**, I read the environmental catalogue, sovereignty statement, and knowledge definitions.
+
+[the_big_green_thing](https://karbytesforlifeblog.wordpress.com/the_big_green_thing/) gives the name a geographical scope. It describes a connected East Bay region encompassing Las Trampas, the Ramage Peak and Dinosaur Ridge trail area, Lake Chabot Regional Park, and Horsey Hill.
+
+The name is karbytes’ designation for that encompassing landscape. The page should not be read as establishing that “The Big Green Thing” is an official administrative park name.
+
+Most of the resource is a long catalogue of photographs, maps, screenshots, and videos. Its numbering reaches 191, with an additional out-of-sequence “120” entry near the later part of the list. The filenames document ridges, trails, reservoirs, flowers, cattle, insects, birds or other wildlife-related subjects, nighttime views, and Google Earth representations.
+
+The collection spans different dates and types of observation. Some groups concern particular outings in May and August 2025; others preserve earlier material from 2022–2024. Within several groups, suffixes appear in filename-style order—such as `p1`, `p10`, `p11`, then `p2`—rather than straightforward numerical order. The catalogue should therefore not automatically be interpreted as a frame-by-frame or strictly chronological sequence.
+
+Its function is partly geographical and partly autobiographical. It identifies a region through repeated encounters and retained records. The landscape is not reduced to one emblematic photograph or one walk.
+
+In relation to video 5, it clarifies that the refuge being discussed is a substantial network of places with an accumulated history in the archive. I have examined the catalogue’s text and structure, not every image and video linked within that catalogue.
+
+[sovereignty_of_karbytes](https://karbytesforlifeblog.wordpress.com/sovereignty_of_karbytes/) is a short, declarative statement about authorship and control within KARBYTES.
+
+Its opening describes karbytes as “king” and “god” within its own corner of cyberspace. In the immediate context, those terms concern being the builder and shaper of an authored domain. They should not be treated as evidence of unrestricted power over the external world.
+
+The statement then expands from editorial control toward a desire for immortality, continued growth, and transcendence of decay and suffering. It explicitly distinguishes best- and worst-case outcomes: achieving the desired transcendence, or failing to achieve it sufficiently soon—or at all.
+
+That uncertainty is significant. The document expresses an aim and a motivating possibility, rather than presenting the desired outcome as already demonstrated.
+
+Its relevance to the monologue is the relationship between two kinds of sovereignty: control over an authored collection and control over the circumstances of a living mind. The first can be partly implemented through publishing and preservation practices. The second remains dependent on conditions that the author does not fully control.
+
+[KNOWLEDGE](https://karlinaobject.wordpress.com/knowledge/) supplies a hierarchy of substrate, pattern, data, information, and knowledge.
+
+A substrate is the physical medium through which patterns are instantiated or transmitted. A pattern is a distinguishable structure. Data provide relatively elementary components. Information consists of contextualized relationships among data. Knowledge, in this page’s terminology, is the subjective interpretation of information by a sufficiently complex agent.
+
+The numerical example connects the binary sequence `11001101` with the decimal number 205. The page uses that mapping to illustrate the difference between an encoded pattern and a meaningful interpretation of it.
+
+Its abstraction hierarchy moves from physical voltage sequences to data, then information, then knowledge. The final example is especially pertinent to your video requests: a neural network processes a video file and subjectively perceives its encoded sequence of images and sounds.
+
+That last step is the philosophically consequential one. The page’s definitions distinguish possession or processing of an encoding from the particular experience associated with interpreting it. Successful decoding alone does not settle whether a system has the proposed subjective experience.
+
+The term “knowledge” is also narrower here than in many ordinary uses. The page emphasizes the uniqueness of an experienced instance—what happens for one agent at one time—rather than merely a proposition that multiple people could communicate and accept. That distinction helps explain why preserving a recording and recreating an original experience remain different ambitions.
+
+For **video 7**, I read [BEST_PRACTICES_FOR_USING_THE_WEB](https://karbytesforlifeblog.wordpress.com/best_practices_for_using_the_web/).
+
+The page is an earlier practical guide, last updated in November 2023, organized around three activities: creating a personal website, preserving it through the Wayback Machine and GitHub, and participating through social-media accounts.
+
+It recommends WordPress and describes the author’s preference for the Intergalactic theme. The website is presented as a home for memories, interests, images, knowledge, and links—not merely as a promotional platform.
+
+The preservation discussion is particularly detailed. It describes repeated Wayback saves, occasional missing or outdated captures, problems preserving embedded media, and the use of direct links to raw GitHub files. This explains why the later journal page so carefully identifies source files and displays raw addresses.
+
+Some claims about permanence are stronger than the described evidence warrants. The page’s own reports of unsuccessful captures show why an archive should not be assumed indestructible simply because a save was attempted. Its platform recommendations and numerical service limits are also historical statements; I have not treated them as verified current operating rules.
+
+The social-media section favors public circulation beyond friends and family. It discusses Twitter, Minds, LinkedIn, Patreon, Instagram, and Facebook, with different assessments of their usefulness.
+
+The connection to video 7 is straightforward: this page addresses how records become available and remain retrievable; the monologue asks who or what will actually attend to those records. Preservation supplies an opportunity for future reading, but does not guarantee that reading will occur. The proposed role for AI addresses that second problem.
+
+For **video 8**, I read [chatgpt_karbytes_06may2026](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_06may2026/).
+
+Despite its page name, the document identifies its conversation as occurring in late April and gives a source-header date of 1 May. This is another reason to distinguish a page’s date-bearing name from the dates stated within its contents.
+
+The conversation begins by asking whether “easy money” exists. ChatGPT distinguishes income that appears effortless because of earlier work, income involving risk, advantages based on specialized access or skill, and windfalls.
+
+Karbytes then asks whether universal basic income could constitute easy money for literally everyone. The discussion shifts from individual income to collective resource allocation. A numerical illustration uses 260 million adults and an annual payment of $12,000 to produce a gross annual total of $3.12 trillion. These are the document’s illustrative assumptions, not figures I have independently updated for the present.
+
+Karbytes proposes reallocating military spending toward an adaptively calculated basic income. The discussion then turns to an earlier proposal involving expiring money, continuing issuance, and adjustment according to economic conditions.
+
+Several variables become central: the amount issued, the lifespan of currency, circulation velocity, and real output. The attraction of the scheme is that money would behave more like a managed flow than an indefinitely accumulating stock.
+
+The document also considers substantial objections. These include measuring economic conditions, preserving savings and long-term planning, possible movement into other assets, and the power held by whoever controls issuance and expiration rules.
+
+The ecological discussion broadens the model again. Karbytes emphasizes that economic activity occurs within physical environments and imagines expanding those environments through future habitats. ChatGPT suggests connecting issuance to usable energy and ecological constraints, while noting that not all forms of value can be reduced to their energy requirements.
+
+The final proposal separates expiring credits for essentials from ordinary non-expiring money for discretionary uses and longer-term holdings. The conversation raises questions about who defines essentials, how suppliers would be paid, whether different tiers of goods would emerge, and how expiration might pressure recipients into hurried spending.
+
+My interpretation is that this resource concerns **separating access to survival necessities from compulsory participation in conventional employment**, while attempting to acknowledge production constraints. That makes it relevant to video 8’s uncertainty about the human place in an increasingly automated economy.
+
+The conversation’s enthusiastic evaluations should still be distinguished from demonstrated feasibility. Equations can organize assumptions without establishing that a proposed system would behave stably, distribute resources fairly, or attract sustained public support. The questions about governance are especially important because a system intended to support agency could also impose restrictive conditions on recipients.
+
+The following **14 text resources remain unexamined in this review**. They downloaded successfully, but I could not read their complete contents before the workspace disconnected or recover them adequately through the alternative reader:
+
+[preformatted_text]
+
+| Listed under   | Resource awaiting examination                                                                                                                                           |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Videos 0 and 4 | [chatgpt_karbytes_29august2026_b](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_29august2026_b/)                                                           |
+| Video 1        | [chatgpt_karbytes_28august2026_b](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_28august2026_b/)                                                           |
+| Video 1        | [chatgpt_karbytes_07july2026](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_07july2026/)                                                                   |
+| Video 2        | [karbytes_ontology](https://karbytesforlifeblog.wordpress.com/karbytes_ontology/)                                                                                       |
+| Video 2        | [journal_karbytes_26july2026](https://karbytesforlifeblog.wordpress.com/journal_karbytes_26july2026/)                                                                   |
+| Video 3        | [journal_karbytes_23september2025](https://karbytesforlifeblog.wordpress.com/journal_karbytes_23september2025/)                                                         |
+| Video 3        | [journal_karbytes_05august2026_b](https://karbytesforlifeblog.wordpress.com/journal_karbytes_05august2026_b/)                                                           |
+| Video 4        | [journal_karbytes_28august2026_p1.txt](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_75/main/journal_karbytes_28august2026_p1.txt) |
+| Video 5        | [chatgpt_karbytes_10june2026](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_10june2026/)                                                                   |
+| Video 5        | [journal_karbytes_02august2026](https://karbytesforlifeblog.wordpress.com/journal_karbytes_02august2026/)                                                               |
+| Video 5        | [about_karbytes](https://karbytesforlifeblog.wordpress.com/about_karbytes/)                                                                                             |
+| Video 7        | [chatgpt_karbytes_05july2026](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05july2026/)                                                                   |
+| Video 8        | [chatgpt_karbytes_14march2026](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_14march2026/)                                                                 |
+| Video 8        | [proposed_principles_of_global_governance](https://karbytesforlifeblog.wordpress.com/proposed_principles_of_global_governance/)                                         |
+
+[end preformatted_text]
+
+Video 6 has no auxiliary “relevant” listing. The repeated appearance of `chatgpt_karbytes_29august2026_b` accounts for the difference between 35 listings and 34 distinct resources.
+
+For the **six directly listed videos**, I verified only their file metadata. The frame counts below are reported by the files; they are **not counts of frames I visually inspected**.
+
+[preformatted_text]
+
+| Video                                                                                                                                                                                         |      Duration | Reported frames |  Dimensions |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------: | --------------: | ----------: |
+| [karbytes_in_its_campsite_28august2026_p0.mp4](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_75/main/karbytes_in_its_campsite_28august2026_p0.mp4)       |       56.35 s |           1,681 |   588 × 330 |
+| [obs_studio_recording_28may2026_p0.mp4](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/obs_studio_recording_28may2026_p0.mp4)                     | 9 min 58.57 s |          17,957 |  1092 × 614 |
+| [blackened_karbytes_19june2026_p0.mp4](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/blackened_karbytes_19june2026_p0.mp4)                       |        6.78 s |             194 | 1920 × 1080 |
+| [blackened_karbytes_19june2026_p1.mp4](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/blackened_karbytes_19june2026_p1.mp4)                       |        9.39 s |             271 | 1920 × 1080 |
+| [obs_studio_recording_karbytes_04july2026_p1.mp4](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_75/main/obs_studio_recording_karbytes_04july2026_p1.mp4) | 6 min 45.27 s |          12,158 |  1092 × 614 |
+| [obs_studio_recording_07august2026_p1.mp4](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/obs_studio_recording_07august2026_p1.mp4)               | 6 min 46.00 s |          12,180 |  1092 × 614 |
+
+[end preformatted_text]
+
+Together, these files contain approximately **24 minutes 42 seconds** and report **44,441 video frames**. All six contain audio streams. **I have not yet analyzed those soundtracks, established whether speech is present, produced new transcriptions, or measured voice qualities for this set.** Completing that work, inspecting the illustrations, and examining the remaining texts requires the analysis workspace to become available again.
