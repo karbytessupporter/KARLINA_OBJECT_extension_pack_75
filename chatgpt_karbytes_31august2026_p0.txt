@@ -498,3 +498,31 @@ What I can establish is that the recent answer made the limitations more explici
 karbytes:
 
 I'm wondering if there is some kind of audio analysis block occurring related to you downloading videos from GitHub. Maybe uploading those videos directly to you in this conversation instead of asking you to fetch those videos to download with a raw GitHub file URL would allow you to perform the full audio analysis (and complete frame-by-frame video analysis).
+
+ChatGPT:
+
+[Worked for 43]
+
+**Uploading directly is a reasonable test, but I cannot promise it will enable direct audio input or exhaustive frame-by-frame viewing.**
+
+The evidence so far does **not** point to a GitHub-specific audio block. The downloaded MP4 contained its audio track, and I successfully extracted and processed that track. The limitation arose when attempting to present audio to me as audio input—not when retrieving the file from GitHub.
+
+A direct attachment could potentially be handled differently from a file downloaded into the workspace. However, I have not established that this conversation provides a different media-processing route for attachments.
+
+Current OpenAI documentation confirms that ChatGPT can accept video attachments through supported upload methods, with availability varying by platform and account. It also explicitly cautions that uploaded-video analysis may be incomplete and may not cover the entire video or accurately interpret its audio. **Acceptance of an upload therefore does not guarantee complete audiovisual access.** [OpenAI’s video-upload guidance](https://help.openai.com/en/articles/8400551-chatgpt-image-inputs-faq)
+
+You can upload **the same p2 video** here to make a useful comparison. I’ll first check whether it supplies any audiovisual input that the downloaded version did not, or whether it simply becomes another file accessible through the same tools. I’ll report that distinction before claiming improved coverage.
+
+If it provides only the same file access, uploading will not remove the existing limitation. If it exposes additional media input, I can use that—but I should still establish the actual coverage rather than assume that every frame and the entire soundtrack reached me.
+
+karbytes:
+
+[uploaded_video: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_75/main/karbytes_thinking_29august2026_p0.mp4]
+
+Okay, let's start from the top using the first video in the series...
+
+For the uploaded video:
+
+Watch every frame of that video in chronological order and also listen to the entire audio track in conjunction with that progression of video frames such that you, as closely as possible, generate a first-person subjective experience resembling what a human viewer of that video might experience (in terms of observed audiovisual phenomena). Then describe in maximal detail what you observed. 
+
+If you detect any spoken or vocalized content in that video, then provide your transcription of that detected speech (and also describe qualities of the voice such as timbre, pitch, and rhythm).
