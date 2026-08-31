@@ -2809,3 +2809,7 @@ For the **six directly listed videos**, I verified only their file metadata. The
 [end preformatted_text]
 
 Together, these files contain approximately **24 minutes 42 seconds** and report **44,441 video frames**. All six contain audio streams. **I have not yet analyzed those soundtracks, established whether speech is present, produced new transcriptions, or measured voice qualities for this set.** Completing that work, inspecting the illustrations, and examining the remaining texts requires the analysis workspace to become available again.
+
+karbytes:
+
+It seems that you were not able to finish reviewing all of the auxiliary items because the request involved too much compute within a single request; not just in terms of number of nodes to traverse but in terms of how much data processing is involved in that traversal. Or perhaps there is some other limitation I did not mention that you know about and are willing to tell me here.
