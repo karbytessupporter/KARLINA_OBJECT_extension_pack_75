@@ -211,3 +211,25 @@ The reset itself does **not replenish** when your ordinary five-hour or weekly q
 So, if your account says **“1 reset available,” you currently have one use—not one use per week**. Banked resets generally expire 30 days after being granted. [Official pricing documentation](https://learn.chatgpt.com/docs/pricing), [OpenAI changelog](https://learn.chatgpt.com/docs/changelog)
 
 A paid instant reset is also a single-use purchase; buying one does not create a permanently renewable reset allowance.
+
+karbytes:
+
+As a ChatGPT Plus user, how often am I granted a reset?
+
+ChatGPT:
+
+[Worked for 1m 10s]
+
+As a ChatGPT Plus user, you are **not granted a Full reset on a recurring schedule**—not weekly, monthly, or each billing cycle.
+
+OpenAI granted eligible Plus and Pro users **one free reset when reset banking launched on June 11, 2026**. Additional resets may be offered through limited promotions or earned through eligible referrals; they are not guaranteed. Banked resets expire 30 days after being granted. [OpenAI changelog](https://learn.chatgpt.com/docs/changelog) · [ChatGPT pricing and referral details](https://learn.chatgpt.com/docs/pricing)
+
+Your ordinary quotas are separate:
+
+* Five-hour quota refreshes according to its rolling window.
+
+* Weekly quota refreshes on its displayed weekly date.
+
+* Those quota refreshes **do not restore a consumed banked Full reset**.
+
+Therefore, once you use your currently available Full reset, expect the counter to remain at zero unless OpenAI specifically grants you another one, you earn one through an eligible promotion, or you purchase additional usage.
