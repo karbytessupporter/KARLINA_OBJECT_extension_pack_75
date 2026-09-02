@@ -233,3 +233,31 @@ Your ordinary quotas are separate:
 * Those quota refreshes **do not restore a consumed banked Full reset**.
 
 Therefore, once you use your currently available Full reset, expect the counter to remain at zero unless OpenAI specifically grants you another one, you earn one through an eligible promotion, or you purchase additional usage.
+
+karbytes:
+
+What is meant by "eligible promotion"? 
+
+ChatGPT:
+
+[Worked for 1m 25s]
+
+“Eligible promotion” means a **limited-time offer for accounts that satisfy that offer’s particular rules**. It does not refer to a standard recurring Plus benefit.
+
+Eligibility may depend on:
+
+* Your subscription plan and account
+
+* The promotion’s active dates
+
+* Your region or whether the offer appears in your account
+
+* Referral requirements
+
+* Whether the invited person is a new/qualifying user
+
+* The number of rewards you have already earned
+
+For example, OpenAI ran a referral promotion from **June 11 through June 24, 2026**: eligible Plus and Pro users could invite up to three friends, and both parties received a banked reset after a qualifying recipient sent their first Codex message. That particular promotion has ended.
+
+The invitation screen in your profile is supposed to display any **currently applicable reward, requirements, limits, and expiration date**. Therefore, if your account does not currently show an invitation or reset-earning offer, you should not assume that a promotion is available. [Official OpenAI pricing documentation](https://learn.chatgpt.com/docs/pricing)
