@@ -195,3 +195,19 @@ One important distinction:
 * **Applying a full reset** refreshes both quotas immediately, including the still-mostly-unused five-hour quota—so applying one while 82% remains would effectively discard that remaining short-window capacity.
 
 Thus, with approximately **10% weekly and 82% five-hour remaining**, your weekly quota is the binding constraint. Once it reaches zero, continuing immediately will require credits or a reset; otherwise, you must wait. [Official OpenAI pricing and limits](https://learn.chatgpt.com/docs/pricing)
+
+karbytes:
+
+How many times do I get to use a reset before the reset gets reset?
+
+ChatGPT:
+
+[Worked for 36s]
+
+A banked **Full reset can be used exactly once**. After you apply it, your available-reset count decreases by one—probably from `1` to `0`.
+
+The reset itself does **not replenish** when your ordinary five-hour or weekly quotas automatically reset. Additional banked resets only appear if OpenAI grants another promotion or you earn one through an eligible referral offer.
+
+So, if your account says **“1 reset available,” you currently have one use—not one use per week**. Banked resets generally expire 30 days after being granted. [Official pricing documentation](https://learn.chatgpt.com/docs/pricing), [OpenAI changelog](https://learn.chatgpt.com/docs/changelog)
+
+A paid instant reset is also a single-use purchase; buying one does not create a permanently renewable reset allowance.
