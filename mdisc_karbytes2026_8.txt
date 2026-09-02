@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes2026_8.txt
  * type: plain-text
- * date: 28_AUGUST_2026
+ * date: 02_SEPTEMBER_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -478,17 +478,17 @@ M_DISC 3 of 3 (disc contains exactly one folder named karbytes2026_8)
 
 M_DISC 3 of 3 data collection name: karbytes_refinement
 
-M_DISC 3 of 3 data collection size: approximately 12 gigabytes
+M_DISC 3 of 3 data collection size: approximately 13 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2026_8: // folder contains exactly 29 files (approximately 10963.86 megabytes total).
+karbytes2026_8: // folder contains exactly 29 files (approximately 11517.28 megabytes total).
 
     - zip_file_0: karbytes_23AndMe_Ancestry_Data-main.zip // 6.8 megabytes
 
     - zip_file_1: KARBYTES_OBJECT-main.zip // 216.5 megabytes
 
-    - zip_file_2: KARBYTES_FOR_LIFE_BLOG-main_28august2026.zip // 4.8 megabytes
+    - zip_file_2: KARBYTES_FOR_LIFE_BLOG-main_02september2026.zip // 4.8 megabytes
 
     - zip_file_3: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_01june2026.zip // 300.0 megabytes
 
@@ -516,23 +516,23 @@ karbytes2026_8: // folder contains exactly 29 files (approximately 10963.86 mega
 
     - zip_file_15: KARLINA_OBJECT_extension_pack_69-main.zip // 1.3 gigabytes
 
-    - zip_file_16: KARLINA_OBJECT_extension_pack_70-main.zip // 866.7 megaabytes
+    - zip_file_16: KARLINA_OBJECT_extension_pack_70-main.zip // 866.7 megabytes
 
-    - zip_file_17: KARLINA_OBJECT_extension_pack_71-main.zip // 844.8 megaabytes
+    - zip_file_17: KARLINA_OBJECT_extension_pack_71-main.zip // 844.8 megabytes
 
-    - zip_file_18: KARLINA_OBJECT_extension_pack_72-main.zip // 934.3 megaabytes
+    - zip_file_18: KARLINA_OBJECT_extension_pack_72-main.zip // 934.3 megabytes
 
-    - zip_file_19: KARLINA_OBJECT_extension_pack_73-main.zip // 914.5 megaabytes
+    - zip_file_19: KARLINA_OBJECT_extension_pack_73-main.zip // 914.5 megabytes
 
-    - zip_file_20: KARLINA_OBJECT_extension_pack_74-main.zip // 2.2 megaabytes
+    - zip_file_20: KARLINA_OBJECT_extension_pack_74-main.zip // 2.2 megabytes
 
-    - zip_file_21: KARLINA_OBJECT_extension_pack_75-main_28august2026.zip // 705.9 megaabytes
+    - zip_file_21: KARLINA_OBJECT_extension_pack_75-main_02september2026.zip // 1.3 gigabytes
 
     - zip_file_22: karbytes_wayback_machine_saves_precision_batches-main.zip // 832.3 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
     - zip_file_23: karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip // 157.2 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_24: karbytes_wayback_machine_saves_precision_batches_extension_1-main_28august2026.zip // 266.5 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_24: karbytes_wayback_machine_saves_precision_batches_extension_1-main_02september2026.zip // 271.2 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
     - zip_file_25: karbytes_basement_53-main.zip // 147.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
